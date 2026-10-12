@@ -1,0 +1,17 @@
+[Unit]
+Description=Cisco V8E Minecraft Server
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/cisco-v8e
+ExecStart=/bin/bash /home/ubuntu/cisco-v8e/start.sh
+Restart=on-failure
+RestartSec=10
+KillMode=mixed
+TimeoutStopSec=120
+
+[Install]
+WantedBy=multi-user.target
