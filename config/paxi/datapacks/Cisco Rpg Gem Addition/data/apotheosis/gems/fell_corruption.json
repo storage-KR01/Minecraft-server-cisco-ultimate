@@ -1,0 +1,60 @@
+{
+    "variant": "fell_corruption",
+    "weight": 5,
+    "quality": 0,
+    "dimensions": [],
+    "bonuses": [
+        {
+            "type": "apotheosis:attribute",
+            "gem_class":
+            {
+                "key": "anything",
+                "types": ["helmet",
+                    "chestplate",
+                    "leggings",
+                    "boots"]
+            },
+            "attribute": "ciscounbound:fell_damage",
+            "operation": "ADDITION",
+            "values":
+            {
+                "common":
+                {
+                    "min": 5.0,
+                    "steps": 1,
+                    "step": 0
+                },
+                "uncommon":
+                {
+                    "min": 10.0,
+                    "steps": 1,
+                    "step": 0
+                },
+                "rare":
+                {
+                    "min": 15.0,
+                    "steps": 1,
+                    "step": 0
+                },
+                "epic":
+                {
+                    "min": 20.0,
+                    "steps": 1,
+                    "step": 0
+                },
+                "mythic":
+                {
+                    "min": 30.0,
+                    "steps": 1,
+                    "step": 0
+                },
+                "ancient":
+                {
+                    "min": 40.0,
+                    "steps": 1,
+                    "step": 0
+                }
+            }
+        }
+    ]
+}
