@@ -30350,3 +30350,10 @@ Canary Cached BlockState Flags are disabled!
 [03:17:48] [Netty Epoll Server IO #1/INFO] [co.te.re.Redirector/]: Redirecting shadow/kyori/adventure/util/TriState
 [03:20:03] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
 [03:20:03] [Server thread/INFO] [co.te.re.Redirector/]: Redirecting dev/ftb/mods/ftbteams/data/TeamType
+[03:27:48] [Netty Epoll Server IO #2/INFO] [co.te.re.Redirector/]: Redirecting net/minecraftforge/network/ConnectionType
+[03:27:48] [Netty Epoll Server IO #2/INFO] [co.te.re.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
+[03:27:49] [Netty Epoll Server IO #2/INFO] [co.te.re.Redirector/]: Redirecting com/velocitypowered/natives/util/NativeCodeLoader$Status
+[03:27:50] [User Authenticator #1/INFO] [minecraft/ServerLoginPacketListenerImpl]: Disconnecting /123.19.16.121:61022: Failed to verify username!
+[03:27:50] [Netty Epoll Server IO #2/INFO] [co.te.re.Redirector/]: Redirecting com/velocitypowered/natives/util/BufferPreference
+[03:27:50] [User Authenticator #1/ERROR] [minecraft/ServerLoginPacketListenerImpl]: Username 'Sylein1' tried to join with an invalid session
+[03:27:50] [Server thread/INFO] [minecraft/ServerLoginPacketListenerImpl]: /123.19.16.121:61022 lost connection: Failed to verify username!
