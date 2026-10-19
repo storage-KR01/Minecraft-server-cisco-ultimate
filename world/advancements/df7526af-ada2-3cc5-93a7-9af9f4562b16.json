@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "simplyswords:sunfire": {
+    "criteria": {
+      "requirement": "2026-10-18 15:34:14 +0000"
+    },
+    "done": true
+  },
   "vinery:dark_oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -167,6 +173,12 @@
   "enigmaticlegacy:book/accessories/enigmatic_elytra": {
     "criteria": {
       "has_the_recipe": "2026-10-14 05:58:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/mega_sponge": {
+    "criteria": {
+      "has_the_recipe": "2026-10-18 15:58:58 +0000"
     },
     "done": true
   },
@@ -1048,6 +1060,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/mega_sponge": {
+    "criteria": {
+      "has_items": "2026-10-18 15:58:58 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -1123,6 +1141,12 @@
   "ars_nouveau:warp_scroll": {
     "criteria": {
       "has_warp_scroll": "2026-10-12 12:12:25 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:derelict_grass_tower": {
+    "criteria": {
+      "derelict_grass": "2026-10-18 15:58:08 +0000"
     },
     "done": true
   },
@@ -1232,6 +1256,12 @@
   "apotheosis:affix/mythic": {
     "criteria": {
       "sword": "2026-10-14 13:32:59 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2026-10-18 15:58:55 +0000"
     },
     "done": true
   },
@@ -1711,6 +1741,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/enchantments/eternal_binding_curse": {
+    "criteria": {
+      "has_items": "2026-10-18 15:52:30 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -2038,6 +2074,12 @@
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:main/false_justice": {
+    "criteria": {
+      "twist": "2026-10-18 15:55:49 +0000"
     },
     "done": true
   },

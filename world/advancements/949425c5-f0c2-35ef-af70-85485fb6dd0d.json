@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "simplyswords:sunfire": {
+    "criteria": {
+      "requirement": "2026-10-18 15:33:04 +0000"
+    },
+    "done": true
+  },
   "vinery:dark_oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
@@ -2739,6 +2745,12 @@
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2026-10-12 03:30:47 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/nearbyents": {
+    "criteria": {
+      "modifier": "2026-10-18 16:02:33 +0000"
     },
     "done": true
   },
