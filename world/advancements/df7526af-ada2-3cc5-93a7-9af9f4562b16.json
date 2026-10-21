@@ -91,6 +91,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2026-10-19 07:08:15 +0000"
+    },
+    "done": true
+  },
   "ciscounbound:silver_wolfs_bite": {
     "criteria": {
       "silver_wolfs_bite": "2026-10-16 14:31:53 +0000"
@@ -167,6 +173,12 @@
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "unusualend:we_have_a_problem": {
+    "criteria": {
+      "we_have_a_problem": "2026-10-20 08:26:24 +0000"
     },
     "done": true
   },
@@ -386,7 +398,9 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2026-10-13 02:15:27 +0000",
-      "entered_pillager_camp": "2026-10-12 04:23:39 +0000"
+      "entered_stables": "2026-10-19 06:28:32 +0000",
+      "entered_pillager_camp": "2026-10-12 04:23:39 +0000",
+      "entered_large_dungeon": "2026-10-19 06:01:16 +0000"
     },
     "done": false
   },
@@ -461,6 +475,12 @@
   "enigmaticaddons:book/tools/the_bless": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:booster_dropped": {
+    "criteria": {
+      "picked_up_booster": "2026-10-19 04:45:10 +0000"
     },
     "done": true
   },
@@ -563,6 +583,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2026-10-19 07:13:50 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/novelty_hat": {
     "criteria": {
       "sopa_de_macaco": "2026-10-14 13:32:59 +0000"
@@ -596,6 +622,18 @@
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_warped_garden": {
+    "criteria": {
+      "in_structure": "2026-10-19 06:30:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2026-10-19 06:01:16 +0000"
     },
     "done": true
   },
@@ -660,6 +698,12 @@
       "opened_cart": "2026-10-17 03:35:47 +0000"
     },
     "done": false
+  },
+  "iter_rpg:economy": {
+    "criteria": {
+      "economy": "2026-10-19 06:20:35 +0000"
+    },
+    "done": true
   },
   "vinery:cherry_door": {
     "criteria": {
@@ -817,6 +861,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2026-10-19 07:22:43 +0000"
+    },
+    "done": false
+  },
   "vinery:wine_press": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -826,6 +876,12 @@
   "aquamirae:recipes/fin": {
     "criteria": {
       "has_item": "2026-10-18 04:01:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2026-10-19 07:07:52 +0000"
     },
     "done": true
   },
@@ -1120,6 +1176,12 @@
     },
     "done": true
   },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2026-10-19 14:26:43 +0000"
+    },
+    "done": true
+  },
   "vinery:mangrove_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -1378,15 +1440,33 @@
     "criteria": {
       "minecraft:taiga": "2026-10-14 03:38:04 +0000",
       "minecraft:deep_ocean": "2026-10-18 04:35:03 +0000",
+      "atmospheric:rainforest_basin": "2026-10-19 06:23:43 +0000",
+      "atmospheric:rainforest": "2026-10-19 06:10:54 +0000",
+      "minecraft:sunflower_plains": "2026-10-19 06:05:46 +0000",
       "minecraft:birch_forest": "2026-10-17 06:45:55 +0000",
       "minecraft:windswept_hills": "2026-10-17 06:40:02 +0000",
+      "minecraft:bamboo_jungle": "2026-10-19 06:08:12 +0000",
       "minecraft:beach": "2026-10-12 03:58:52 +0000",
+      "minecraft:dark_forest": "2026-10-19 06:07:44 +0000",
+      "minecraft:stony_peaks": "2026-10-19 06:23:21 +0000",
+      "minecraft:sparse_jungle": "2026-10-19 06:26:15 +0000",
       "minecraft:river": "2026-10-12 03:35:29 +0000",
+      "minecraft:lukewarm_ocean": "2026-10-19 06:26:10 +0000",
+      "minecraft:stony_shore": "2026-10-19 06:33:42 +0000",
       "minecraft:dripstone_caves": "2026-10-16 14:56:32 +0000",
       "minecraft:swamp": "2026-10-18 03:08:05 +0000",
+      "atmospheric:dunes": "2026-10-19 06:28:20 +0000",
       "minecraft:cold_ocean": "2026-10-16 14:49:52 +0000",
+      "atmospheric:aspen_parkland": "2026-10-19 06:07:32 +0000",
       "minecraft:forest": "2026-10-12 03:49:57 +0000",
+      "minecraft:lush_caves": "2026-10-19 06:14:02 +0000",
       "minecraft:ocean": "2026-10-12 04:48:46 +0000",
+      "minecraft:jungle": "2026-10-19 06:19:56 +0000",
+      "atmospheric:sparse_rainforest_basin": "2026-10-20 03:01:39 +0000",
+      "minecraft:windswept_savanna": "2026-10-19 05:58:34 +0000",
+      "minecraft:warm_ocean": "2026-10-19 06:27:52 +0000",
+      "minecraft:deep_lukewarm_ocean": "2026-10-19 06:30:07 +0000",
+      "atmospheric:scrubland": "2026-10-19 06:35:40 +0000",
       "minecraft:old_growth_birch_forest": "2026-10-13 02:00:16 +0000",
       "atmospheric:laurel_forest": "2026-10-17 03:14:01 +0000",
       "minecraft:deep_dark": "2026-10-14 03:58:40 +0000",
@@ -1412,6 +1492,12 @@
       "has_items": "2026-10-13 02:48:10 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2026-10-19 07:13:50 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -1502,6 +1588,12 @@
   "vinery:cherry_wood": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2026-10-19 04:45:44 +0000"
     },
     "done": true
   },
@@ -1619,6 +1711,12 @@
     },
     "done": true
   },
+  "atmospheric:adventure/dunes_pricks": {
+    "criteria": {
+      "yucca_flower": "2026-10-19 06:28:28 +0000"
+    },
+    "done": false
+  },
   "simplyswords:thunderbrand": {
     "criteria": {
       "requirement": "2026-10-12 12:27:36 +0000"
@@ -1678,6 +1776,12 @@
   "incendium:root": {
     "criteria": {
       "requirement": "2026-10-15 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/unholy_grail": {
+    "criteria": {
+      "has_items": "2026-10-20 03:11:41 +0000"
     },
     "done": true
   },
@@ -1849,6 +1953,12 @@
     },
     "done": true
   },
+  "repurposed_structures:witch_huts": {
+    "criteria": {
+      "in_witch_hut_birch": "2026-10-20 03:00:41 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/etherium_chestplate": {
     "criteria": {
       "has_items": "2026-10-14 03:25:01 +0000"
@@ -1885,6 +1995,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2026-10-19 05:53:28 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
       "has_recipe": "2026-10-12 03:34:25 +0000",
@@ -1917,6 +2033,12 @@
   "incendium:misc/root": {
     "criteria": {
       "incendium:ash_barrens": "2026-10-17 02:42:23 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/60ench": {
+    "criteria": {
+      "enchanted_item": "2026-10-20 04:04:19 +0000"
     },
     "done": true
   },
@@ -2004,11 +2126,23 @@
     },
     "done": true
   },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2026-10-19 14:26:41 +0000"
+    },
+    "done": true
+  },
   "vinery:birch_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_sapling": "2026-10-19 07:23:28 +0000"
+    },
+    "done": false
   },
   "enigmaticaddons:book/accessories/hell_blade_charm": {
     "criteria": {
@@ -2026,6 +2160,18 @@
   "dungeons_arise:find_mushroom_house": {
     "criteria": {
       "location0": "2026-10-17 03:59:34 +0000"
+    },
+    "done": true
+  },
+  "quark:instamine_deepslate": {
+    "criteria": {
+      "instamine_deepslate": "2026-10-19 05:45:02 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/sharp_bones": {
+    "criteria": {
+      "has_item": "2026-10-19 06:51:18 +0000"
     },
     "done": true
   },
@@ -2053,6 +2199,12 @@
     },
     "done": true
   },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2026-10-19 06:36:44 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/discover_spellstone": {
     "criteria": {
       "spellstone": "2026-10-12 04:55:17 +0000"
@@ -2064,6 +2216,12 @@
       "has_the_recipe": "2026-10-14 03:25:01 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_castle": {
+    "criteria": {
+      "castle": "2026-10-19 07:53:48 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/misc/lore_inscriber": {
     "criteria": {
@@ -2091,7 +2249,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2026-10-15 04:12:08 +0000"
+      "phantom": "2026-10-15 04:12:08 +0000",
+      "warden": "2026-10-19 04:45:10 +0000"
     },
     "done": false
   },
@@ -2154,6 +2313,12 @@
       "loot_stat": "2026-10-12 03:56:31 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_thorns": {
+    "criteria": {
+      "castle": "2026-10-19 07:53:48 +0000"
+    },
+    "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
@@ -2314,6 +2479,12 @@
     },
     "done": false
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2026-10-19 07:03:47 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2026-10-12 03:34:25 +0000"
@@ -2448,6 +2619,12 @@
   "enigmaticlegacy:recipes/generic/lore_fragment": {
     "criteria": {
       "has_items": "2026-10-15 02:55:55 +0000"
+    },
+    "done": true
+  },
+  "progressivebosses:max_diff_wither": {
+    "criteria": {
+      "max_diff_wither": "2026-10-19 13:34:37 +0000"
     },
     "done": true
   },
@@ -2604,6 +2781,12 @@
   "cisco_mod:infernal_demons_wrath": {
     "criteria": {
       "infernal_demons_wrath": "2026-10-15 14:43:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2026-10-19 04:45:10 +0000"
     },
     "done": true
   },
@@ -2893,13 +3076,23 @@
       "byg:allium_fields": "2026-10-12 15:17:13 +0000",
       "byg:prairie": "2026-10-13 02:13:23 +0000",
       "byg:coconino_meadow": "2026-10-17 03:56:27 +0000",
+      "byg:rainbow_beach": "2026-10-19 06:35:13 +0000",
       "byg:glowstone_gardens": "2026-10-17 15:15:03 +0000",
+      "byg:orchard": "2026-10-19 05:58:44 +0000",
+      "byg:weeping_witch_forest": "2026-10-19 05:58:13 +0000",
+      "byg:atacama_desert": "2026-10-19 06:28:18 +0000",
+      "byg:araucaria_savanna": "2026-10-19 06:35:11 +0000",
       "byg:wailing_garth": "2026-10-17 14:57:28 +0000",
       "byg:autumnal_valley": "2026-10-14 03:37:01 +0000",
       "byg:skyris_vale": "2026-10-12 15:25:54 +0000",
+      "byg:baobab_savanna": "2026-10-19 06:35:36 +0000",
+      "byg:amaranth_fields": "2026-10-19 06:24:47 +0000",
       "byg:weeping_mire": "2026-10-15 02:34:40 +0000",
       "byg:basalt_barrera": "2026-10-17 06:44:07 +0000",
-      "byg:maple_taiga": "2026-10-17 03:56:46 +0000"
+      "byg:maple_taiga": "2026-10-17 03:56:46 +0000",
+      "byg:mojave_desert": "2026-10-19 06:35:39 +0000",
+      "byg:dacite_shore": "2026-10-19 06:33:52 +0000",
+      "byg:windswept_desert": "2026-10-19 06:28:05 +0000"
     },
     "done": false
   },
@@ -3148,6 +3341,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2026-10-19 04:45:56 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -3157,6 +3356,13 @@
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2026-10-19 07:13:50 +0000",
+      "yeti": "2026-10-19 07:22:43 +0000"
     },
     "done": true
   },
@@ -3220,6 +3426,13 @@
     },
     "done": true
   },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "trophy": "2026-10-19 07:13:50 +0000",
+      "kill_naga": "2026-10-19 07:08:15 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/enchanter_pearl": {
     "criteria": {
       "has_items": "2026-10-18 02:34:36 +0000",
@@ -3236,6 +3449,12 @@
   "enigmaticlegacy:main/root": {
     "criteria": {
       "flower": "2026-10-12 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "swarm_spider": "2026-10-19 07:19:17 +0000"
     },
     "done": true
   },

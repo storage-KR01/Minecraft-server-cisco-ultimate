@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/enchantments/eternal_binding_curse": {
+    "criteria": {
+      "has_items": "2026-10-20 04:09:11 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_the_recipe": "2026-10-15 01:51:07 +0000"
@@ -177,6 +183,12 @@
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2026-10-15 01:51:07 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/arcana50": {
+    "criteria": {
+      "enchanted_item": "2026-10-20 04:10:23 +0000"
     },
     "done": true
   },
@@ -619,6 +631,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-10-20 04:10:23 +0000"
+    },
+    "done": true
+  },
   "vinery:shelf": {
     "criteria": {
       "has_the_recipe": "2026-10-15 01:51:07 +0000"
@@ -790,6 +808,12 @@
   "vinery:cherry_chest_boat": {
     "criteria": {
       "has_the_recipe": "2026-10-15 01:51:07 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2026-10-20 04:10:23 +0000"
     },
     "done": true
   },
@@ -1526,6 +1550,12 @@
       "has_the_recipe": "2026-10-15 01:51:07 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enchanter_pearl": {
+    "criteria": {
+      "has_recipe_result": "2026-10-20 04:09:11 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:main/root": {
     "criteria": {
