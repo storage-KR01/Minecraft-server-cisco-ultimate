@@ -2266,6 +2266,12 @@
     },
     "done": true
   },
+  "quark:instamine_deepslate": {
+    "criteria": {
+      "instamine_deepslate": "2026-10-25 11:35:59 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infinimeal": {
     "criteria": {
       "has_items": "2026-10-12 12:10:48 +0000"
@@ -2622,6 +2628,12 @@
     },
     "done": true
   },
+  "cisco_mod:ancient_craftmanship": {
+    "criteria": {
+      "ancient_craftmanship": "2026-10-25 03:47:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2026-10-12 03:59:18 +0000"
@@ -2745,6 +2757,12 @@
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2026-10-22 18:15:54 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/endshelf": {
+    "criteria": {
+      "endshelf": "2026-10-25 03:29:39 +0000"
     },
     "done": true
   },
@@ -3289,12 +3307,6 @@
       "enchanted_item": "2026-10-13 04:17:25 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2026-10-24 06:13:35 +0000"
-    },
-    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
