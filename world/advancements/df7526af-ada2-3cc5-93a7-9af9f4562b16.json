@@ -85,6 +85,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/80ench": {
+    "criteria": {
+      "enchanted_item": "2026-10-27 12:40:11 +0000"
+    },
+    "done": true
+  },
   "vinery:big_table": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -316,6 +322,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/oxygen_tank": {
+    "criteria": {
+      "has_item": "2026-10-28 14:12:55 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_trapdoor": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -338,6 +350,12 @@
   "quark:overlevel_enchant": {
     "criteria": {
       "overlevel_enchant": "2026-10-15 14:56:03 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/shroomlamp": {
+    "criteria": {
+      "has_the_recipe": "2026-10-29 06:23:16 +0000"
     },
     "done": true
   },
@@ -419,7 +437,8 @@
       "entered_stables": "2026-10-19 06:28:32 +0000",
       "entered_pillager_camp": "2026-10-12 04:23:39 +0000",
       "entered_large_dungeon": "2026-10-19 06:01:16 +0000",
-      "entered_dungeon_variant": "2026-10-22 02:31:51 +0000"
+      "entered_dungeon_variant": "2026-10-22 02:31:51 +0000",
+      "entered_ruined_building": "2026-10-28 14:01:26 +0000"
     },
     "done": false
   },
@@ -466,6 +485,12 @@
       "has_items": "2026-10-12 04:55:17 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/redstonelamps": {
+    "criteria": {
+      "has_parent_recipe": "2026-10-29 06:23:16 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/accessories/golden_ring": {
     "criteria": {
@@ -650,6 +675,12 @@
     },
     "done": true
   },
+  "simplyswords:storms_edge": {
+    "criteria": {
+      "requirement": "2026-10-28 12:43:06 +0000"
+    },
+    "done": true
+  },
   "dungeons_plus:adventure/find_warped_garden": {
     "criteria": {
       "in_structure": "2026-10-19 06:30:15 +0000"
@@ -685,6 +716,12 @@
       "killed_by_something": "2026-10-12 03:40:19 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_nether": "2026-10-29 06:42:25 +0000"
+    },
+    "done": false
   },
   "apotheosis:affix/random": {
     "criteria": {
@@ -754,6 +791,12 @@
     },
     "done": true
   },
+  "blue_skies:everdawn/enter": {
+    "criteria": {
+      "enter_everdawn": "2026-10-28 13:36:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2026-10-14 14:57:51 +0000",
@@ -815,6 +858,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2026-10-14 03:12:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2026-10-28 13:02:47 +0000"
     },
     "done": true
   },
@@ -1091,6 +1140,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2026-10-28 14:05:54 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2026-10-12 03:34:25 +0000"
@@ -1148,6 +1203,12 @@
   "enigmaticaddons:book/tools/astral_spear": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2026-10-28 13:58:33 +0000"
     },
     "done": true
   },
@@ -1505,11 +1566,13 @@
     "criteria": {
       "minecraft:snowy_slopes": "2026-10-22 13:14:43 +0000",
       "minecraft:old_growth_pine_taiga": "2026-10-22 03:12:34 +0000",
+      "minecraft:mushroom_fields": "2026-10-28 13:52:11 +0000",
       "minecraft:taiga": "2026-10-14 03:38:04 +0000",
       "minecraft:deep_ocean": "2026-10-18 04:35:03 +0000",
       "atmospheric:rainforest_basin": "2026-10-19 06:23:43 +0000",
       "atmospheric:rainforest": "2026-10-19 06:10:54 +0000",
       "minecraft:eroded_badlands": "2026-10-23 15:13:50 +0000",
+      "minecraft:frozen_river": "2026-10-28 13:34:45 +0000",
       "minecraft:sunflower_plains": "2026-10-19 06:05:46 +0000",
       "minecraft:birch_forest": "2026-10-17 06:45:55 +0000",
       "minecraft:windswept_hills": "2026-10-17 06:40:02 +0000",
@@ -1523,16 +1586,23 @@
       "minecraft:river": "2026-10-12 03:35:29 +0000",
       "minecraft:lukewarm_ocean": "2026-10-19 06:26:10 +0000",
       "minecraft:stony_shore": "2026-10-19 06:33:42 +0000",
+      "minecraft:snowy_plains": "2026-10-28 13:32:31 +0000",
       "minecraft:dripstone_caves": "2026-10-16 14:56:32 +0000",
+      "minecraft:snowy_taiga": "2026-10-28 13:34:49 +0000",
       "minecraft:swamp": "2026-10-18 03:08:05 +0000",
+      "minecraft:grove": "2026-10-28 13:20:03 +0000",
       "atmospheric:dunes": "2026-10-19 06:28:20 +0000",
       "minecraft:cold_ocean": "2026-10-16 14:49:52 +0000",
       "atmospheric:aspen_parkland": "2026-10-19 06:07:32 +0000",
       "minecraft:forest": "2026-10-12 03:49:57 +0000",
       "minecraft:lush_caves": "2026-10-19 06:14:02 +0000",
+      "minecraft:frozen_ocean": "2026-10-28 13:45:11 +0000",
+      "minecraft:desert": "2026-10-28 13:14:42 +0000",
+      "minecraft:deep_frozen_ocean": "2026-10-28 13:46:11 +0000",
       "minecraft:ocean": "2026-10-12 04:48:46 +0000",
       "minecraft:jungle": "2026-10-19 06:19:56 +0000",
       "atmospheric:sparse_rainforest_basin": "2026-10-20 03:01:39 +0000",
+      "minecraft:snowy_beach": "2026-10-28 13:45:09 +0000",
       "minecraft:windswept_savanna": "2026-10-19 05:58:34 +0000",
       "minecraft:warm_ocean": "2026-10-19 06:27:52 +0000",
       "minecraft:deep_lukewarm_ocean": "2026-10-19 06:30:07 +0000",
@@ -1541,6 +1611,7 @@
       "minecraft:old_growth_birch_forest": "2026-10-13 02:00:16 +0000",
       "atmospheric:laurel_forest": "2026-10-17 03:14:01 +0000",
       "minecraft:deep_dark": "2026-10-14 03:58:40 +0000",
+      "atmospheric:kousa_jungle": "2026-10-28 13:44:10 +0000",
       "minecraft:meadow": "2026-10-16 14:56:26 +0000",
       "minecraft:savanna": "2026-10-22 13:00:43 +0000",
       "minecraft:plains": "2026-10-12 03:34:26 +0000"
@@ -1729,6 +1800,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/ship_graveyard_echo": {
+    "criteria": {
+      "has_item": "2026-10-28 13:49:46 +0000"
+    },
+    "done": true
+  },
   "totw_modded:regular_tower": {
     "criteria": {
       "regular": "2026-10-12 03:46:56 +0000"
@@ -1842,6 +1919,12 @@
   "enigmaticlegacy:recipes/generic/etherium_boots": {
     "criteria": {
       "has_items": "2026-10-14 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/exotic_eye": {
+    "criteria": {
+      "exotic_eye": "2026-10-29 07:40:05 +0000"
     },
     "done": true
   },
@@ -2019,11 +2102,23 @@
     },
     "done": true
   },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2026-10-28 14:05:03 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:ash_barrens": "2026-10-17 02:42:23 +0000"
     },
     "done": false
+  },
+  "aquamirae:recipes/three_bolt_helmet": {
+    "criteria": {
+      "has_item": "2026-10-28 14:12:55 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
@@ -2079,6 +2174,12 @@
     },
     "done": true
   },
+  "simplyswords:livyatan": {
+    "criteria": {
+      "requirement": "2026-10-28 12:43:06 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2026-10-19 05:53:28 +0000"
@@ -2089,6 +2190,12 @@
     "criteria": {
       "has_recipe": "2026-10-12 03:34:25 +0000",
       "has_cobweb": "2026-10-12 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulrender": {
+    "criteria": {
+      "requirement": "2026-10-28 12:43:10 +0000"
     },
     "done": true
   },
@@ -2401,6 +2508,12 @@
   "enigmaticlegacy:recipes/generic/thicc_scroll": {
     "criteria": {
       "has_items": "2026-10-15 02:55:55 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2026-10-28 13:46:11 +0000"
     },
     "done": true
   },
@@ -2743,10 +2856,22 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2026-10-28 12:32:58 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
       "has_parent_recipe": "2026-10-15 02:55:55 +0000",
       "has_items": "2026-10-12 14:56:56 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/endshelf": {
+    "criteria": {
+      "endshelf": "2026-10-27 12:54:14 +0000"
     },
     "done": true
   },
@@ -2869,6 +2994,13 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/shroomlamps": {
+    "criteria": {
+      "has_parent_recipe": "2026-10-29 06:23:16 +0000",
+      "has_core_block": "2026-10-28 14:31:19 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -2891,7 +3023,8 @@
     "criteria": {
       "red": "2026-10-23 02:31:23 +0000",
       "blue": "2026-10-23 02:40:15 +0000",
-      "black": "2026-10-23 03:36:29 +0000"
+      "black": "2026-10-23 03:36:29 +0000",
+      "yellow": "2026-10-29 07:41:48 +0000"
     },
     "done": false
   },
@@ -2989,6 +3122,12 @@
   "royalvariations:royal_variations_achievement": {
     "criteria": {
       "royal_variations_achievement": "2026-10-17 14:12:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everdawn": "2026-10-28 13:36:50 +0000"
     },
     "done": true
   },
@@ -3149,6 +3288,12 @@
     },
     "done": true
   },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everdawn": "2026-10-28 13:36:50 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -3183,6 +3328,18 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/decorations/lamp": {
+    "criteria": {
+      "has_the_recipe": "2026-10-29 06:23:16 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulpyre": {
+    "criteria": {
+      "requirement": "2026-10-28 12:43:06 +0000"
+    },
+    "done": true
+  },
   "celestisynth:obtain_solaris": {
     "criteria": {
       "criteria": "2026-10-18 03:33:59 +0000"
@@ -3192,6 +3349,12 @@
   "byg:root": {
     "criteria": {
       "tick": "2026-10-12 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2026-10-29 07:39:47 +0000"
     },
     "done": true
   },
@@ -3207,6 +3370,7 @@
       "byg:prairie": "2026-10-13 02:13:23 +0000",
       "byg:coconino_meadow": "2026-10-17 03:56:27 +0000",
       "byg:rainbow_beach": "2026-10-19 06:35:13 +0000",
+      "byg:sythian_torrids": "2026-10-29 06:24:16 +0000",
       "byg:glowstone_gardens": "2026-10-17 15:15:03 +0000",
       "byg:orchard": "2026-10-19 05:58:44 +0000",
       "byg:red_oak_forest": "2026-10-22 13:06:18 +0000",
@@ -3219,14 +3383,20 @@
       "byg:wailing_garth": "2026-10-17 14:57:28 +0000",
       "byg:autumnal_valley": "2026-10-14 03:37:01 +0000",
       "byg:skyris_vale": "2026-10-12 15:25:54 +0000",
+      "byg:cardinal_tundra": "2026-10-28 13:34:47 +0000",
       "byg:baobab_savanna": "2026-10-19 06:35:36 +0000",
       "byg:amaranth_fields": "2026-10-19 06:24:47 +0000",
+      "byg:coniferous_forest": "2026-10-28 13:40:45 +0000",
+      "byg:ebony_woods": "2026-10-28 13:18:27 +0000",
       "byg:weeping_mire": "2026-10-15 02:34:40 +0000",
       "byg:basalt_barrera": "2026-10-17 06:44:07 +0000",
+      "byg:temperate_rainforest": "2026-10-28 13:10:47 +0000",
       "byg:maple_taiga": "2026-10-17 03:56:46 +0000",
       "byg:mojave_desert": "2026-10-19 06:35:39 +0000",
       "byg:dacite_shore": "2026-10-19 06:33:52 +0000",
-      "byg:windswept_desert": "2026-10-19 06:28:05 +0000"
+      "byg:frosted_coniferous_forest": "2026-10-28 13:40:16 +0000",
+      "byg:windswept_desert": "2026-10-19 06:28:05 +0000",
+      "byg:frosted_taiga": "2026-10-28 13:44:20 +0000"
     },
     "done": false
   },
@@ -3408,6 +3578,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/lamps": {
+    "criteria": {
+      "has_core_block": "2026-10-29 06:23:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2026-10-16 15:07:38 +0000"
@@ -3432,6 +3608,12 @@
   "enigmaticlegacy:book/tools/infernal_shield": {
     "criteria": {
       "has_the_recipe": "2026-10-15 14:13:20 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_frozen_key": {
+    "criteria": {
+      "frozen_key": "2026-10-28 14:12:55 +0000"
     },
     "done": true
   },
@@ -3637,6 +3819,12 @@
   "enigmaticlegacy:recipes/generic/etherium_helmet": {
     "criteria": {
       "has_items": "2026-10-14 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2026-10-29 07:17:21 +0000"
     },
     "done": true
   },
