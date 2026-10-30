@@ -9,7 +9,7 @@
 	properties: {
 		"ftbteams:display_name": "Sus"
 		"ftbteams:description": "Re: 0"
-		"ftbteams:color": "#72FF59"
+		"ftbteams:color": "#59FF59"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b

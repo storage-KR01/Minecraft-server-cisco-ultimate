@@ -162,6 +162,12 @@
     },
     "done": true
   },
+  "royalvariations:explosive_king": {
+    "criteria": {
+      "explosive_king": "2026-10-30 03:57:33 +0000"
+    },
+    "done": true
+  },
   "vinery:oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
@@ -322,6 +328,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2026-10-12 15:38:35 +0000",
+      "entered_pillager_camp": "2026-10-30 05:04:02 +0000",
       "entered_druid_circle": "2026-10-12 15:40:13 +0000"
     },
     "done": false
@@ -570,6 +577,12 @@
     },
     "done": false
   },
+  "iter_rpg:economy": {
+    "criteria": {
+      "economy": "2026-10-30 14:32:42 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_door": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
@@ -603,6 +616,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2026-10-13 02:00:16 +0000",
+      "minecraft:blaze": "2026-10-30 03:42:29 +0000",
       "minecraft:skeleton": "2026-10-12 05:26:20 +0000",
       "minecraft:vindicator": "2026-10-13 02:00:22 +0000",
       "minecraft:spider": "2026-10-13 12:22:07 +0000",
@@ -610,6 +624,7 @@
       "minecraft:evoker": "2026-10-13 02:09:56 +0000",
       "minecraft:phantom": "2026-10-15 02:23:56 +0000",
       "minecraft:zombified_piglin": "2026-10-17 07:21:13 +0000",
+      "minecraft:witch": "2026-10-30 04:50:35 +0000",
       "minecraft:wither_skeleton": "2026-10-12 12:34:46 +0000",
       "minecraft:husk": "2026-10-13 02:07:28 +0000",
       "minecraft:cave_spider": "2026-10-12 11:57:29 +0000",
@@ -617,6 +632,7 @@
       "minecraft:enderman": "2026-10-12 13:03:03 +0000",
       "minecraft:silverfish": "2026-10-12 13:12:19 +0000",
       "minecraft:endermite": "2026-10-29 13:06:24 +0000",
+      "minecraft:vex": "2026-10-30 04:59:45 +0000",
       "minecraft:zombie": "2026-10-12 05:00:05 +0000",
       "minecraft:zombie_villager": "2026-10-20 13:21:24 +0000",
       "savage_and_ravage:skeleton_villager": "2026-10-28 15:01:13 +0000"
@@ -644,6 +660,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2026-10-20 14:00:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2026-10-30 04:19:08 +0000"
     },
     "done": true
   },
@@ -808,6 +830,12 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_oak": "2026-10-30 05:03:53 +0000"
+    },
+    "done": false
+  },
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_tower_of_the_undead": "2026-10-12 15:38:35 +0000"
@@ -841,6 +869,12 @@
   "bygonenether:root": {
     "criteria": {
       "entered_nether": "2026-10-15 03:42:11 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:bony_king": {
+    "criteria": {
+      "bony_king": "2026-10-30 13:04:25 +0000"
     },
     "done": true
   },
@@ -940,6 +974,12 @@
     },
     "done": true
   },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2026-10-30 04:29:10 +0000"
+    },
+    "done": true
+  },
   "vinery:mangrove_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
@@ -1021,6 +1061,12 @@
   "simplyswords:the_watcher": {
     "criteria": {
       "requirement": "2026-10-28 14:37:58 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2026-10-30 04:38:24 +0000"
     },
     "done": true
   },
@@ -1166,18 +1212,21 @@
     "criteria": {
       "minecraft:taiga": "2026-10-14 03:40:57 +0000",
       "atmospheric:rainforest_basin": "2026-10-21 14:46:50 +0000",
+      "minecraft:deep_ocean": "2026-10-30 05:07:15 +0000",
       "atmospheric:rainforest": "2026-10-21 14:51:25 +0000",
       "minecraft:birch_forest": "2026-10-20 12:48:08 +0000",
       "minecraft:windswept_hills": "2026-10-29 13:09:47 +0000",
       "minecraft:beach": "2026-10-12 04:47:45 +0000",
       "minecraft:dark_forest": "2026-10-20 13:07:33 +0000",
       "minecraft:river": "2026-10-12 04:41:29 +0000",
+      "minecraft:stony_shore": "2026-10-30 05:07:31 +0000",
       "minecraft:dripstone_caves": "2026-10-17 06:48:32 +0000",
       "minecraft:cold_ocean": "2026-10-29 05:05:27 +0000",
       "atmospheric:aspen_parkland": "2026-10-20 13:15:10 +0000",
       "minecraft:forest": "2026-10-12 04:50:05 +0000",
       "minecraft:lush_caves": "2026-10-21 15:02:18 +0000",
       "minecraft:desert": "2026-10-29 07:06:54 +0000",
+      "minecraft:windswept_forest": "2026-10-30 13:51:09 +0000",
       "minecraft:ocean": "2026-10-12 04:50:24 +0000",
       "atmospheric:sparse_rainforest_basin": "2026-10-21 14:48:13 +0000",
       "minecraft:frozen_peaks": "2026-10-28 14:16:22 +0000",
@@ -1206,6 +1255,12 @@
       "log_spam_fixer": "2026-10-12 04:40:43 +0000"
     },
     "done": false
+  },
+  "simplyswords:soulkeeper": {
+    "criteria": {
+      "requirement": "2026-10-30 03:38:13 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
@@ -1599,6 +1654,12 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2026-10-30 14:28:01 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2026-10-12 04:43:09 +0000"
@@ -1608,6 +1669,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2026-10-29 02:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2026-10-30 12:37:45 +0000"
     },
     "done": true
   },
@@ -1677,6 +1744,12 @@
   "apotheosis:enchanting/60ench": {
     "criteria": {
       "enchanted_item": "2026-10-20 14:00:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:ash_barrens": "2026-10-30 14:28:01 +0000"
     },
     "done": true
   },
@@ -1807,6 +1880,12 @@
     },
     "done": true
   },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2026-10-30 13:55:29 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/discover_spellstone": {
     "criteria": {
       "spellstone": "2026-10-12 04:51:34 +0000"
@@ -1854,6 +1933,12 @@
       "ars_nouveau:worn_notebook": "2026-10-12 04:40:42 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:ancient_cities": {
+    "criteria": {
+      "in_ancient_city_end": "2026-10-30 12:51:45 +0000"
+    },
+    "done": false
   },
   "vinery:jungle_wine_rack_small": {
     "criteria": {
@@ -1957,6 +2042,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2026-10-30 03:42:39 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2026-10-12 04:52:51 +0000"
@@ -2026,6 +2117,12 @@
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2026-10-30 14:28:01 +0000"
     },
     "done": true
   },
@@ -2171,6 +2268,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2026-10-30 04:23:19 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
@@ -2237,6 +2340,12 @@
     },
     "done": true
   },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2026-10-30 13:53:40 +0000"
+    },
+    "done": true
+  },
   "vinery:grass_slab": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
@@ -2297,6 +2406,16 @@
     },
     "done": true
   },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "aether:skyroot_grove": "2026-10-30 13:54:43 +0000",
+      "deep_aether:aerglow_forest": "2026-10-30 14:15:06 +0000",
+      "deep_aether:mystic_aerglow_forest": "2026-10-30 13:53:40 +0000",
+      "aether:skyroot_forest": "2026-10-30 14:10:17 +0000",
+      "deep_aether:aerlavender_fields": "2026-10-30 13:54:42 +0000"
+    },
+    "done": false
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2026-10-15 02:14:52 +0000"
@@ -2340,6 +2459,18 @@
     },
     "done": true
   },
+  "unusualend:you_but_stronger": {
+    "criteria": {
+      "you_but_stronger": "2026-10-30 03:52:22 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/discover_scroll": {
+    "criteria": {
+      "spellstone": "2026-10-30 12:33:47 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2026-10-12 04:40:42 +0000"
@@ -2361,6 +2492,12 @@
   "vinery:cherry_boat": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2026-10-30 03:57:33 +0000"
     },
     "done": true
   },
@@ -2392,6 +2529,12 @@
   "enigmaticlegacy:book/relics/enigmatic_amulet": {
     "criteria": {
       "has_items": "2026-10-12 04:40:42 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_cursed": {
+    "criteria": {
+      "iter_cursed": "2026-10-30 14:30:13 +0000"
     },
     "done": true
   },
@@ -2467,6 +2610,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2026-10-30 12:34:51 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_planks": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
@@ -2476,6 +2625,12 @@
   "vinery:stripped_cherry_wood": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2026-10-30 12:51:45 +0000"
     },
     "done": true
   },
@@ -2524,6 +2679,18 @@
     },
     "done": true
   },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2026-10-30 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "aether:read_lore": {
+    "criteria": {
+      "lore_book_entry": "2026-10-30 13:54:00 +0000"
+    },
+    "done": true
+  },
   "majruszsaccessories:miner_guide": {
     "criteria": {
       "picked_up_accessory": "2026-10-12 05:29:33 +0000"
@@ -2534,12 +2701,16 @@
     "criteria": {
       "byg:allium_fields": "2026-10-12 15:17:12 +0000",
       "byg:prairie": "2026-10-12 15:37:42 +0000",
+      "byg:coconino_meadow": "2026-10-30 13:37:38 +0000",
+      "byg:sythian_torrids": "2026-10-30 04:43:32 +0000",
       "byg:orchard": "2026-10-12 15:29:49 +0000",
       "byg:autumnal_forest": "2026-10-22 03:20:48 +0000",
       "byg:zelkova_forest": "2026-10-21 14:46:26 +0000",
       "byg:autumnal_valley": "2026-10-14 03:37:18 +0000",
       "byg:skyris_vale": "2026-10-12 15:27:36 +0000",
+      "byg:shulkren_forest": "2026-10-30 12:34:51 +0000",
       "byg:weeping_mire": "2026-10-15 03:42:11 +0000",
+      "byg:basalt_barrera": "2026-10-30 05:05:47 +0000",
       "byg:maple_taiga": "2026-10-21 15:22:58 +0000"
     },
     "done": false
@@ -2598,6 +2769,26 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2026-10-30 14:45:05 +0000",
+      "!bit14": "2026-10-30 14:45:05 +0000",
+      "!bit11": "2026-10-30 14:45:05 +0000",
+      "!bit12": "2026-10-30 14:45:05 +0000",
+      "!bit10": "2026-10-30 14:45:05 +0000",
+      "!bit9": "2026-10-30 14:45:05 +0000",
+      "!bit8": "2026-10-30 14:45:05 +0000",
+      "!bit7": "2026-10-30 14:45:05 +0000",
+      "!bit6": "2026-10-30 14:45:05 +0000",
+      "!bit5": "2026-10-30 14:45:05 +0000",
+      "!bit4": "2026-10-30 14:45:05 +0000",
+      "!bit3": "2026-10-30 14:45:05 +0000",
+      "!bit2": "2026-10-30 14:45:05 +0000",
+      "!bit1": "2026-10-30 14:45:05 +0000",
+      "!bit0": "2026-10-30 14:45:05 +0000"
+    },
+    "done": false
+  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2026-10-12 04:40:42 +0000"
@@ -2625,6 +2816,12 @@
   "enigmaticlegacy:recipes/generic/monster_charm": {
     "criteria": {
       "has_items": "2026-10-20 13:37:21 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "in_structure": "2026-10-30 04:59:12 +0000"
     },
     "done": true
   },
@@ -2701,6 +2898,12 @@
   "enigmaticaddons:book/misc/sanguinary_handbook": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:the_silver_wolf": {
+    "criteria": {
+      "the_silver_wolf": "2026-10-30 04:04:28 +0000"
     },
     "done": true
   },
@@ -2871,6 +3074,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2026-10-12 04:40:42 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2026-10-30 13:53:40 +0000"
     },
     "done": true
   },

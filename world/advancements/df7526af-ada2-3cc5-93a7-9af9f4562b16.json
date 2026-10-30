@@ -378,6 +378,12 @@
     },
     "done": true
   },
+  "aether:icestone": {
+    "criteria": {
+      "icestone": "2026-10-30 14:06:17 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -498,6 +504,12 @@
       "has_parent_recipe": "2026-10-29 06:23:16 +0000"
     },
     "done": false
+  },
+  "mutantmonsters:you_da_bomby": {
+    "criteria": {
+      "tamed_creeper_minion": "2026-10-30 13:25:27 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:book/accessories/golden_ring": {
     "criteria": {
@@ -820,6 +832,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2026-10-14 14:57:51 +0000",
+      "minecraft:blaze": "2026-10-30 02:15:09 +0000",
       "minecraft:skeleton": "2026-10-12 12:06:25 +0000",
       "minecraft:elder_guardian": "2026-10-23 15:33:47 +0000",
       "minecraft:ravager": "2026-10-18 03:57:08 +0000",
@@ -1168,9 +1181,21 @@
     },
     "done": true
   },
+  "royalvariations:bony_king": {
+    "criteria": {
+      "bony_king": "2026-10-30 04:02:35 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/materials/etherium": {
     "criteria": {
       "has_items": "2026-10-14 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2026-10-30 13:39:44 +0000"
     },
     "done": true
   },
@@ -2298,6 +2323,12 @@
     },
     "done": true
   },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_pickaxe": "2026-10-30 14:16:48 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/root": {
     "criteria": {
       "incendium:ash_barrens": "2026-10-17 02:42:23 +0000"
@@ -2379,6 +2410,12 @@
   "vinery:wine_box": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:liberator": {
+    "criteria": {
+      "liberator": "2026-10-30 14:35:22 +0000"
     },
     "done": true
   },
@@ -2488,6 +2525,12 @@
   "betterdeserttemples:temple_entry": {
     "criteria": {
       "in_better_desert_temple": "2026-10-19 06:36:44 +0000"
+    },
+    "done": true
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2026-10-30 14:13:22 +0000"
     },
     "done": true
   },
@@ -2768,6 +2811,7 @@
       "brewingstand": "2026-10-14 06:15:41 +0000",
       "smithingtable": "2026-10-16 14:26:57 +0000",
       "blastfurnace": "2026-10-22 03:59:38 +0000",
+      "stonecutter": "2026-10-30 02:50:11 +0000",
       "cauldron": "2026-10-15 07:38:10 +0000"
     },
     "done": false
@@ -2978,6 +3022,12 @@
     },
     "done": true
   },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2026-10-30 14:43:56 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -3030,6 +3080,12 @@
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2026-10-12 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2026-10-30 13:53:46 +0000"
     },
     "done": true
   },
@@ -3115,6 +3171,15 @@
       "blue": "2026-10-23 02:40:15 +0000",
       "black": "2026-10-23 03:36:29 +0000",
       "yellow": "2026-10-29 07:41:48 +0000"
+    },
+    "done": false
+  },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "aether:skyroot_grove": "2026-10-30 14:05:06 +0000",
+      "deep_aether:mystic_aerglow_forest": "2026-10-30 13:53:47 +0000",
+      "aether:skyroot_forest": "2026-10-30 14:06:49 +0000",
+      "deep_aether:aerlavender_fields": "2026-10-30 13:55:12 +0000"
     },
     "done": false
   },
@@ -3261,6 +3326,12 @@
   "iter_rpg:iter_cursed": {
     "criteria": {
       "iter_cursed": "2026-10-17 02:43:16 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2026-10-30 14:16:20 +0000"
     },
     "done": true
   },
@@ -3455,6 +3526,12 @@
     },
     "done": true
   },
+  "aether:read_lore": {
+    "criteria": {
+      "lore_book_entry": "2026-10-30 13:54:14 +0000"
+    },
+    "done": true
+  },
   "majruszsaccessories:miner_guide": {
     "criteria": {
       "picked_up_accessory": "2026-10-12 13:08:45 +0000"
@@ -3474,6 +3551,7 @@
       "byg:red_oak_forest": "2026-10-22 13:06:18 +0000",
       "byg:autumnal_forest": "2026-10-22 02:27:32 +0000",
       "byg:cika_woods": "2026-10-23 02:27:23 +0000",
+      "byg:white_mangrove_marshes": "2026-10-30 14:40:11 +0000",
       "byg:weeping_witch_forest": "2026-10-19 05:58:13 +0000",
       "byg:atacama_desert": "2026-10-19 06:28:18 +0000",
       "byg:zelkova_forest": "2026-10-21 14:22:39 +0000",
@@ -3955,6 +4033,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2026-10-12 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2026-10-30 13:53:46 +0000"
     },
     "done": true
   },

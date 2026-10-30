@@ -48,6 +48,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2026-10-30 14:31:52 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2026-10-12 04:33:23 +0000",
@@ -162,6 +168,12 @@
       "we_have_a_problem": "2026-10-29 14:35:01 +0000"
     },
     "done": true
+  },
+  "deep_aether:aether_champion": {
+    "criteria": {
+      "valkyrie_queen": "2026-10-30 14:04:04 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/accessories/enigmatic_elytra": {
     "criteria": {
@@ -686,6 +698,7 @@
       "minecraft:wither_skeleton": "2026-10-17 15:27:23 +0000",
       "minecraft:husk": "2026-10-13 13:27:48 +0000",
       "minecraft:ender_dragon": "2026-10-29 14:35:23 +0000",
+      "minecraft:shulker": "2026-10-30 12:39:14 +0000",
       "minecraft:cave_spider": "2026-10-21 04:56:47 +0000",
       "minecraft:piglin": "2026-10-27 10:04:16 +0000",
       "minecraft:enderman": "2026-10-13 10:02:03 +0000",
@@ -1227,6 +1240,12 @@
     },
     "done": true
   },
+  "cisco_mod:fitforaking": {
+    "criteria": {
+      "fitforaking": "2026-10-30 02:09:53 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:25:18 +0000"
@@ -1566,6 +1585,12 @@
     },
     "done": true
   },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2026-10-30 14:04:38 +0000"
+    },
+    "done": true
+  },
   "vinery:coarse_dirt_slab": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:25:18 +0000"
@@ -1897,6 +1922,12 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2026-10-30 14:28:01 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2026-10-12 04:33:23 +0000"
@@ -1985,9 +2016,21 @@
     },
     "done": true
   },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_gloves": "2026-10-30 14:04:37 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2026-10-21 04:17:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:ash_barrens": "2026-10-30 14:28:01 +0000"
     },
     "done": true
   },
@@ -2079,6 +2122,12 @@
     },
     "done": false
   },
+  "iter_rpg:liberator": {
+    "criteria": {
+      "liberator": "2026-10-30 14:35:22 +0000"
+    },
+    "done": true
+  },
   "vinery:mangrove_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:25:18 +0000"
@@ -2165,6 +2214,12 @@
     },
     "done": true
   },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2026-10-30 13:55:19 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/discover_spellstone": {
     "criteria": {
       "spellstone": "2026-10-12 11:55:29 +0000"
@@ -2226,6 +2281,12 @@
     },
     "done": true
   },
+  "repurposed_structures:ancient_cities": {
+    "criteria": {
+      "in_ancient_city_end": "2026-10-30 12:41:35 +0000"
+    },
+    "done": false
+  },
   "vinery:jungle_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:25:18 +0000"
@@ -2247,6 +2308,12 @@
   "enigmaticlegacy:recipes/generic/thicc_scroll": {
     "criteria": {
       "has_items": "2026-10-12 14:29:54 +0000"
+    },
+    "done": true
+  },
+  "phantasm:enter_dreaming_den": {
+    "criteria": {
+      "enter_dreaming_den": "2026-10-30 12:45:42 +0000"
     },
     "done": true
   },
@@ -2410,6 +2477,12 @@
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:25:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2026-10-30 14:28:01 +0000"
     },
     "done": true
   },
@@ -2650,6 +2723,18 @@
     },
     "done": true
   },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2026-10-30 13:56:27 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2026-10-30 13:53:43 +0000"
+    },
+    "done": true
+  },
   "vinery:grass_slab": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:25:18 +0000"
@@ -2714,8 +2799,10 @@
   },
   "quark:get_all_corundum": {
     "criteria": {
+      "red": "2026-10-30 04:40:05 +0000",
       "blue": "2026-10-28 02:00:10 +0000",
       "yellow": "2026-10-28 02:23:06 +0000",
+      "black": "2026-10-30 04:48:49 +0000",
       "indigo": "2026-10-28 02:00:08 +0000"
     },
     "done": false
@@ -2725,6 +2812,16 @@
       "infernal_demons_wrath": "2026-10-29 14:46:57 +0000"
     },
     "done": true
+  },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "aether:skyroot_grove": "2026-10-30 13:54:32 +0000",
+      "deep_aether:aerglow_forest": "2026-10-30 14:07:13 +0000",
+      "deep_aether:mystic_aerglow_forest": "2026-10-30 13:53:43 +0000",
+      "aether:skyroot_forest": "2026-10-30 14:09:40 +0000",
+      "deep_aether:aerlavender_fields": "2026-10-30 13:54:38 +0000"
+    },
+    "done": false
   },
   "cisco_mod:infernal_demons_wrath": {
     "criteria": {
@@ -2787,9 +2884,21 @@
     },
     "done": true
   },
+  "unusualend:you_but_stronger": {
+    "criteria": {
+      "you_but_stronger": "2026-10-30 12:39:17 +0000"
+    },
+    "done": true
+  },
   "simplyswords:longsword_plague": {
     "criteria": {
       "requirement": "2026-10-14 06:59:05 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/discover_scroll": {
+    "criteria": {
+      "spellstone": "2026-10-30 12:33:33 +0000"
     },
     "done": true
   },
@@ -2869,6 +2978,18 @@
   "enigmaticlegacy:book/relics/enigmatic_amulet": {
     "criteria": {
       "has_items": "2026-10-12 04:25:18 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2026-10-30 14:04:04 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_cursed": {
+    "criteria": {
+      "iter_cursed": "2026-10-30 14:30:13 +0000"
     },
     "done": true
   },
@@ -2968,6 +3089,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2026-10-30 12:35:00 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_planks": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:25:18 +0000"
@@ -3049,6 +3176,8 @@
       "byg:autumnal_valley": "2026-10-13 03:19:50 +0000",
       "byg:aspen_forest": "2026-10-27 10:16:48 +0000",
       "byg:skyris_vale": "2026-10-13 03:16:14 +0000",
+      "byg:imparius_grove": "2026-10-30 12:47:23 +0000",
+      "byg:shulkren_forest": "2026-10-30 12:35:00 +0000",
       "byg:weeping_mire": "2026-10-15 03:59:19 +0000",
       "byg:basalt_barrera": "2026-10-27 09:42:48 +0000",
       "byg:temperate_rainforest": "2026-10-27 10:07:26 +0000",
@@ -3110,6 +3239,12 @@
       "enchanted_item": "2026-10-14 15:20:05 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2026-10-30 14:44:22 +0000"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
@@ -3236,6 +3371,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2026-10-30 02:06:12 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2026-10-12 14:29:54 +0000",
@@ -3247,6 +3388,12 @@
   "enigmaticaddons:book/misc/sanguinary_handbook": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:25:18 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:the_silver_wolf": {
+    "criteria": {
+      "the_silver_wolf": "2026-10-30 02:15:12 +0000"
     },
     "done": true
   },
@@ -3439,6 +3586,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2026-10-12 04:25:18 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2026-10-30 13:53:43 +0000"
     },
     "done": true
   },
