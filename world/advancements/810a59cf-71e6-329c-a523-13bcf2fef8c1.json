@@ -186,6 +186,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/etherium_tool": {
+    "criteria": {
+      "etherium_sword": "2026-10-29 13:40:02 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_slab": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
@@ -424,6 +430,12 @@
     },
     "done": true
   },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2026-10-29 13:21:13 +0000"
+    },
+    "done": true
+  },
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
@@ -545,6 +557,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/tools/etherium_sword": {
+    "criteria": {
+      "has_the_recipe": "2026-10-29 13:40:02 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2026-10-12 04:46:37 +0000",
@@ -555,6 +573,12 @@
   "vinery:cherry_door": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
+    },
+    "done": true
+  },
+  "unusualend:its_a_trap": {
+    "criteria": {
+      "its_a_trap": "2026-10-29 13:40:16 +0000"
     },
     "done": true
   },
@@ -592,6 +616,7 @@
       "minecraft:stray": "2026-10-12 11:59:18 +0000",
       "minecraft:enderman": "2026-10-12 13:03:03 +0000",
       "minecraft:silverfish": "2026-10-12 13:12:19 +0000",
+      "minecraft:endermite": "2026-10-29 13:06:24 +0000",
       "minecraft:zombie": "2026-10-12 05:00:05 +0000",
       "minecraft:zombie_villager": "2026-10-20 13:21:24 +0000",
       "savage_and_ravage:skeleton_villager": "2026-10-28 15:01:13 +0000"
@@ -651,9 +676,10 @@
   },
   "enigmaticlegacy:recipes/generic/etherium_sword": {
     "criteria": {
-      "has_parent_recipe": "2026-10-12 13:12:44 +0000"
+      "has_parent_recipe": "2026-10-12 13:12:44 +0000",
+      "has_recipe_result": "2026-10-29 13:40:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:book/misc/enchantment_transposer": {
     "criteria": {
@@ -700,6 +726,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2026-10-29 12:58:08 +0000"
     },
     "done": true
   },
@@ -769,6 +801,12 @@
       "is_cursed_one": "2026-10-13 09:49:37 +0000"
     },
     "done": false
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-10-29 13:25:40 +0000"
+    },
+    "done": true
   },
   "dungeons_enhanced:root": {
     "criteria": {
@@ -926,6 +964,12 @@
     },
     "done": true
   },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2026-10-29 13:21:13 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
@@ -1007,6 +1051,12 @@
   "apotheosis:affix/mythic": {
     "criteria": {
       "sword": "2026-10-20 12:49:07 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2026-10-29 13:21:13 +0000"
     },
     "done": true
   },
@@ -1118,6 +1168,7 @@
       "atmospheric:rainforest_basin": "2026-10-21 14:46:50 +0000",
       "atmospheric:rainforest": "2026-10-21 14:51:25 +0000",
       "minecraft:birch_forest": "2026-10-20 12:48:08 +0000",
+      "minecraft:windswept_hills": "2026-10-29 13:09:47 +0000",
       "minecraft:beach": "2026-10-12 04:47:45 +0000",
       "minecraft:dark_forest": "2026-10-20 13:07:33 +0000",
       "minecraft:river": "2026-10-12 04:41:29 +0000",
@@ -1214,6 +1265,12 @@
   "enigmaticlegacy:recipes/generic/lore_inscriber": {
     "criteria": {
       "has_recipe_result": "2026-10-12 05:22:39 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/guardian_eye": {
+    "criteria": {
+      "guardian_eye": "2026-10-29 13:21:13 +0000"
     },
     "done": true
   },
@@ -1386,6 +1443,12 @@
     },
     "done": true
   },
+  "endrem:main/exotic_eye": {
+    "criteria": {
+      "exotic_eye": "2026-10-29 13:21:13 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/bless_amplifier": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
@@ -1413,6 +1476,18 @@
   "enigmaticaddons:book/tools/dragon_bow": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:ender_dragon_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2026-10-29 14:24:45 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_master": {
+    "criteria": {
+      "is_triggered": "2026-10-29 14:14:00 +0000"
     },
     "done": true
   },
@@ -2014,6 +2089,12 @@
     },
     "done": false
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2026-10-29 13:21:13 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
@@ -2529,6 +2610,18 @@
     },
     "done": true
   },
+  "endrem:main/witch_eye": {
+    "criteria": {
+      "witch_eye": "2026-10-29 13:21:14 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2026-10-29 13:21:13 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/monster_charm": {
     "criteria": {
       "has_items": "2026-10-20 13:37:21 +0000"
@@ -2617,6 +2710,12 @@
     },
     "done": false
   },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2026-10-29 13:21:14 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
       "has_parent_recipe": "2026-10-28 12:37:28 +0000",
@@ -2640,6 +2739,18 @@
   "majruszsdifficulty:kill_yourself": {
     "criteria": {
       "kill_yourself": "2026-10-21 14:52:50 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2026-10-29 13:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-10-29 13:25:40 +0000"
     },
     "done": true
   },
@@ -2670,6 +2781,12 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2026-10-12 04:46:32 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "exotic_eye": "2026-10-29 13:21:13 +0000"
     },
     "done": true
   },
@@ -2715,6 +2832,12 @@
     },
     "done": true
   },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2026-10-29 14:22:35 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
@@ -2736,6 +2859,12 @@
   "majruszsaccessories:adventurer_kit": {
     "criteria": {
       "picked_up_accessory": "2026-10-12 05:22:56 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2026-10-29 13:21:13 +0000"
     },
     "done": true
   },

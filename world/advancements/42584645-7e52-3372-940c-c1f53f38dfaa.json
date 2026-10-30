@@ -424,6 +424,18 @@
     },
     "done": true
   },
+  "progressivebosses:max_diff_dragon": {
+    "criteria": {
+      "max_diff_dragon": "2026-10-29 14:39:19 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2026-10-29 13:20:52 +0000"
+    },
+    "done": true
+  },
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:23:17 +0000"
@@ -577,6 +589,18 @@
     },
     "done": true
   },
+  "unusualend:its_a_trap": {
+    "criteria": {
+      "its_a_trap": "2026-10-29 13:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2026-10-29 14:39:19 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2026-10-20 14:23:02 +0000"
@@ -608,6 +632,8 @@
       "minecraft:zombified_piglin": "2026-10-22 15:23:36 +0000",
       "minecraft:wither_skeleton": "2026-10-21 13:59:22 +0000",
       "minecraft:husk": "2026-10-21 04:12:15 +0000",
+      "minecraft:ender_dragon": "2026-10-29 14:39:19 +0000",
+      "minecraft:shulker": "2026-10-29 14:32:32 +0000",
       "minecraft:cave_spider": "2026-10-21 04:52:35 +0000",
       "minecraft:enderman": "2026-10-12 14:56:40 +0000",
       "minecraft:stray": "2026-10-21 04:12:15 +0000",
@@ -722,6 +748,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2026-10-29 13:15:50 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/night_scroll": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:23:17 +0000"
@@ -775,6 +807,12 @@
       "has_recall_potion": "2026-10-12 14:59:59 +0000",
       "has_core": "2026-10-22 15:28:43 +0000",
       "is_cursed_one": "2026-10-12 04:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-10-29 13:25:48 +0000"
     },
     "done": true
   },
@@ -892,6 +930,12 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2026-10-29 13:20:52 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:game_stage_expert": {
     "criteria": {
       "is_triggered": "2026-10-20 07:37:11 +0000"
@@ -1006,6 +1050,12 @@
     },
     "done": true
   },
+  "cisco_mod:fitforaking": {
+    "criteria": {
+      "fitforaking": "2026-10-29 13:34:19 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:23:17 +0000"
@@ -1027,6 +1077,12 @@
   "apotheosis:affix/mythic": {
     "criteria": {
       "sword": "2026-10-20 07:41:23 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2026-10-29 13:20:52 +0000"
     },
     "done": true
   },
@@ -1249,6 +1305,12 @@
     },
     "done": true
   },
+  "endrem:main/guardian_eye": {
+    "criteria": {
+      "guardian_eye": "2026-10-29 13:20:52 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:23:17 +0000"
@@ -1400,6 +1462,12 @@
     },
     "done": true
   },
+  "endrem:main/exotic_eye": {
+    "criteria": {
+      "exotic_eye": "2026-10-29 13:20:52 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/bless_amplifier": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:23:17 +0000"
@@ -1427,6 +1495,18 @@
   "enigmaticaddons:book/tools/dragon_bow": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:23:17 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:ender_dragon_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2026-10-29 14:15:04 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_master": {
+    "criteria": {
+      "is_triggered": "2026-10-29 14:14:00 +0000"
     },
     "done": true
   },
@@ -2245,6 +2325,18 @@
     },
     "done": false
   },
+  "ciscounbound:infernal_demons_wrath": {
+    "criteria": {
+      "infernal_demons_wrath": "2026-10-29 14:24:28 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:infernal_demons_wrath": {
+    "criteria": {
+      "infernal_demons_wrath": "2026-10-29 14:24:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2026-10-12 04:29:23 +0000"
@@ -2282,6 +2374,12 @@
     },
     "done": true
   },
+  "unusualend:you_but_stronger": {
+    "criteria": {
+      "you_but_stronger": "2026-10-29 14:32:42 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2026-10-12 04:23:17 +0000"
@@ -2297,6 +2395,12 @@
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2026-10-21 14:08:51 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:twisted_blade": {
+    "criteria": {
+      "requirement": "2026-10-29 14:39:19 +0000"
     },
     "done": true
   },
@@ -2571,6 +2675,18 @@
     },
     "done": true
   },
+  "endrem:main/witch_eye": {
+    "criteria": {
+      "witch_eye": "2026-10-29 13:20:53 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2026-10-29 13:20:52 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/monster_charm": {
     "criteria": {
       "has_items": "2026-10-20 13:35:24 +0000"
@@ -2627,6 +2743,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:enderman_teleport_attack": {
+    "criteria": {
+      "teleported_player": "2026-10-29 14:39:48 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/give_ghastling": {
     "criteria": {
       "log_spam_fixer": "2026-10-12 04:23:18 +0000"
@@ -2666,6 +2788,12 @@
     },
     "done": false
   },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2026-10-29 13:20:52 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
       "has_parent_recipe": "2026-10-21 04:26:54 +0000",
@@ -2690,6 +2818,18 @@
   "majruszsdifficulty:kill_yourself": {
     "criteria": {
       "kill_yourself": "2026-10-28 13:14:38 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2026-10-29 13:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-10-29 13:25:48 +0000"
     },
     "done": true
   },
@@ -2768,6 +2908,12 @@
   "enigmaticlegacy:main/root": {
     "criteria": {
       "flower": "2026-10-12 04:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2026-10-29 14:24:50 +0000"
     },
     "done": true
   },

@@ -31,6 +31,11 @@
 		{ from: "38038579-47d7-3591-9037-b7f14881ef67", date: 1791863035786L, text: "{\"text\":\"hello\"}" }
 		{ from: "38038579-47d7-3591-9037-b7f14881ef67", date: 1792163341232L, text: "{\"text\":\"Alo\"}" }
 		{ from: "38038579-47d7-3591-9037-b7f14881ef67", date: 1792163354227L, text: "{\"text\":\"Co thay  tin nhan ko\"}" }
+		{ from: "38038579-47d7-3591-9037-b7f14881ef67", date: 1793278110246L, text: "{\"text\":\"vcl t co 6 lo dung chung 1 do \"}" }
+		{ from: "38038579-47d7-3591-9037-b7f14881ef67", date: 1793278117348L, text: "{\"text\":\"no nhan 6 luon\"}" }
+		{ from: "38038579-47d7-3591-9037-b7f14881ef67", date: 1793278431845L, text: "{\"text\":\"cho t xin mat ender voi\"}" }
+		{ from: "38038579-47d7-3591-9037-b7f14881ef67", date: 1793278433942L, text: "{\"text\":\"het mat\"}" }
+		{ from: "38038579-47d7-3591-9037-b7f14881ef67", date: 1793283579998L, text: "{\"text\":\"chat team\"}" }
 	]
 	extra: { }
 }

@@ -109,6 +109,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/cosmic_cake": {
+    "criteria": {
+      "has_the_recipe": "2026-10-29 14:27:15 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/materials/etherium_ore": {
     "criteria": {
       "generic_revelation": "2026-10-12 12:13:20 +0000"
@@ -130,9 +136,10 @@
   "enigmaticlegacy:recipes/generic/the_infinitum": {
     "criteria": {
       "has_parent_recipe": "2026-10-18 02:34:36 +0000",
+      "has_items": "2026-10-29 14:21:06 +0000",
       "is_cursed_one": "2026-10-12 03:34:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "vinery:cherry_fence": {
     "criteria": {
@@ -531,9 +538,10 @@
   "enigmaticlegacy:recipes/generic/desolation_ring": {
     "criteria": {
       "has_parent_recipe": "2026-10-12 03:45:41 +0000",
+      "has_items": "2026-10-29 14:21:06 +0000",
       "is_cursed_one": "2026-10-12 03:34:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "takesapillage:root": {
     "criteria": {
@@ -773,9 +781,21 @@
     },
     "done": true
   },
+  "unusualend:its_a_trap": {
+    "criteria": {
+      "its_a_trap": "2026-10-29 13:34:47 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/burn_the_tome": {
     "criteria": {
       "burnitdown": "2026-10-23 14:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2026-10-29 14:20:37 +0000"
     },
     "done": true
   },
@@ -818,11 +838,13 @@
       "minecraft:witch": "2026-10-17 03:15:13 +0000",
       "minecraft:wither_skeleton": "2026-10-13 02:11:04 +0000",
       "minecraft:husk": "2026-10-12 13:12:06 +0000",
+      "minecraft:ender_dragon": "2026-10-29 14:20:37 +0000",
       "minecraft:cave_spider": "2026-10-12 12:11:35 +0000",
       "minecraft:piglin": "2026-10-15 09:08:06 +0000",
       "minecraft:enderman": "2026-10-12 12:19:20 +0000",
       "minecraft:stray": "2026-10-12 12:04:56 +0000",
       "minecraft:silverfish": "2026-10-14 05:36:33 +0000",
+      "minecraft:endermite": "2026-10-29 13:17:34 +0000",
       "minecraft:vex": "2026-10-18 04:00:09 +0000",
       "minecraft:zombie": "2026-10-12 12:06:29 +0000",
       "minecraft:drowned": "2026-10-16 14:43:48 +0000",
@@ -1065,6 +1087,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/abyssal_heart": {
+    "criteria": {
+      "heart": "2026-10-29 14:21:06 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -1076,6 +1104,12 @@
       "has_recall_potion": "2026-10-13 12:23:59 +0000",
       "has_core": "2026-10-15 07:23:49 +0000",
       "is_cursed_one": "2026-10-12 03:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-10-29 13:25:40 +0000"
     },
     "done": true
   },
@@ -1218,6 +1252,12 @@
     },
     "done": true
   },
+  "endrem:main/undead_eye": {
+    "criteria": {
+      "undead_eye": "2026-10-29 13:22:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2026-10-12 12:05:15 +0000"
@@ -1262,9 +1302,10 @@
   },
   "enigmaticlegacy:book/relics/ascension_amulet": {
     "criteria": {
+      "has_item_1": "2026-10-29 14:27:15 +0000",
       "has_item_2": "2026-10-14 03:25:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_light_gray": {
     "criteria": {
@@ -1311,6 +1352,12 @@
   "vinery:mangrove_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/cosmic_cake": {
+    "criteria": {
+      "has_items": "2026-10-29 14:27:15 +0000"
     },
     "done": true
   },
@@ -1654,6 +1701,12 @@
     },
     "done": true
   },
+  "simplyswords:soulkeeper": {
+    "criteria": {
+      "requirement": "2026-10-29 14:20:37 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -1725,6 +1778,12 @@
   "cisco_mod:cover_me_in_bright_steel": {
     "criteria": {
       "cover_me_in_bright_steel": "2026-10-14 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2026-10-29 14:14:22 +0000"
     },
     "done": true
   },
@@ -1955,6 +2014,24 @@
   "enigmaticaddons:book/tools/dragon_bow": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:ender_dragon_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2026-10-29 14:14:50 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/the_infinitum": {
+    "criteria": {
+      "has_the_recipe": "2026-10-29 14:21:06 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_master": {
+    "criteria": {
+      "is_triggered": "2026-10-29 14:14:00 +0000"
     },
     "done": true
   },
@@ -2757,6 +2834,7 @@
   },
   "enigmaticlegacy:book/relics/eldritch_amulet": {
     "criteria": {
+      "has_item_1": "2026-10-29 14:21:06 +0000",
       "is_the_cursed_one": "2026-10-12 03:34:42 +0000"
     },
     "done": false
@@ -2856,6 +2934,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "chorus_flower": "2026-10-29 14:52:50 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2026-10-28 12:32:58 +0000"
@@ -2921,6 +3005,12 @@
   "celestisynth:place_celestial_table": {
     "criteria": {
       "criteria": "2026-10-16 07:41:50 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/desolation_ring": {
+    "criteria": {
+      "has_the_recipe": "2026-10-29 14:21:06 +0000"
     },
     "done": true
   },
@@ -3288,6 +3378,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2026-10-29 14:42:24 +0000"
+    },
+    "done": true
+  },
   "blue_skies:thinking_with_portals": {
     "criteria": {
       "enter_everdawn": "2026-10-28 13:36:50 +0000"
@@ -3306,7 +3402,8 @@
       "has_item_2": "2026-10-21 14:14:02 +0000",
       "has_item_5": "2026-10-12 14:56:56 +0000",
       "has_item_6": "2026-10-13 09:49:03 +0000",
-      "has_item_4": "2026-10-17 14:39:32 +0000"
+      "has_item_4": "2026-10-17 14:39:32 +0000",
+      "has_item_7": "2026-10-29 14:27:15 +0000"
     },
     "done": false
   },
@@ -3371,6 +3468,7 @@
       "byg:coconino_meadow": "2026-10-17 03:56:27 +0000",
       "byg:rainbow_beach": "2026-10-19 06:35:13 +0000",
       "byg:sythian_torrids": "2026-10-29 06:24:16 +0000",
+      "byg:bulbis_gardens": "2026-10-29 14:46:30 +0000",
       "byg:glowstone_gardens": "2026-10-17 15:15:03 +0000",
       "byg:orchard": "2026-10-19 05:58:44 +0000",
       "byg:red_oak_forest": "2026-10-22 13:06:18 +0000",
@@ -3383,7 +3481,9 @@
       "byg:wailing_garth": "2026-10-17 14:57:28 +0000",
       "byg:autumnal_valley": "2026-10-14 03:37:01 +0000",
       "byg:skyris_vale": "2026-10-12 15:25:54 +0000",
+      "byg:imparius_grove": "2026-10-29 14:43:05 +0000",
       "byg:cardinal_tundra": "2026-10-28 13:34:47 +0000",
+      "byg:shulkren_forest": "2026-10-29 13:25:41 +0000",
       "byg:baobab_savanna": "2026-10-19 06:35:36 +0000",
       "byg:amaranth_fields": "2026-10-19 06:24:47 +0000",
       "byg:coniferous_forest": "2026-10-28 13:40:45 +0000",
@@ -3623,6 +3723,12 @@
     },
     "done": false
   },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2026-10-29 13:19:01 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
       "has_parent_recipe": "2026-10-15 02:55:55 +0000",
@@ -3666,6 +3772,12 @@
   "enigmaticlegacy:book/tools/astral_breaker": {
     "criteria": {
       "has_the_recipe": "2026-10-14 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-10-29 13:25:40 +0000"
     },
     "done": true
   },
@@ -3715,6 +3827,12 @@
   "endrem:main/root": {
     "criteria": {
       "lost_eye": "2026-10-12 11:51:43 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/abyssal_heart": {
+    "criteria": {
+      "has_items": "2026-10-29 14:21:06 +0000"
     },
     "done": true
   },
@@ -3777,6 +3895,12 @@
   "enigmaticlegacy:main/root": {
     "criteria": {
       "flower": "2026-10-12 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2026-10-29 14:20:23 +0000"
     },
     "done": true
   },
