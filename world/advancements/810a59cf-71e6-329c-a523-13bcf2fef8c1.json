@@ -72,6 +72,12 @@
     },
     "done": true
   },
+  "ciscounbound:silver_wolfs_bite": {
+    "criteria": {
+      "silver_wolfs_bite": "2026-10-31 04:37:05 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/materials/etherium_ore": {
     "criteria": {
       "generic_revelation": "2026-10-12 13:10:16 +0000"
@@ -1582,6 +1588,12 @@
     },
     "done": false
   },
+  "cisco_mod:silver_wolfs_bite": {
+    "criteria": {
+      "silver_wolfs_bite": "2026-10-31 04:37:05 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:40:42 +0000"
@@ -2416,6 +2428,12 @@
     },
     "done": false
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "red": "2026-10-31 05:00:53 +0000"
+    },
+    "done": false
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2026-10-15 02:14:52 +0000"
@@ -2769,26 +2787,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "!bit13": "2026-10-30 14:45:05 +0000",
-      "!bit14": "2026-10-30 14:45:05 +0000",
-      "!bit11": "2026-10-30 14:45:05 +0000",
-      "!bit12": "2026-10-30 14:45:05 +0000",
-      "!bit10": "2026-10-30 14:45:05 +0000",
-      "!bit9": "2026-10-30 14:45:05 +0000",
-      "!bit8": "2026-10-30 14:45:05 +0000",
-      "!bit7": "2026-10-30 14:45:05 +0000",
-      "!bit6": "2026-10-30 14:45:05 +0000",
-      "!bit5": "2026-10-30 14:45:05 +0000",
-      "!bit4": "2026-10-30 14:45:05 +0000",
-      "!bit3": "2026-10-30 14:45:05 +0000",
-      "!bit2": "2026-10-30 14:45:05 +0000",
-      "!bit1": "2026-10-30 14:45:05 +0000",
-      "!bit0": "2026-10-30 14:45:05 +0000"
-    },
-    "done": false
-  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2026-10-12 04:40:42 +0000"
@@ -2866,6 +2864,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2026-10-12 04:40:42 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:enderman_teleport_attack": {
+    "criteria": {
+      "teleported_player": "2026-10-31 04:50:39 +0000"
     },
     "done": true
   },

@@ -368,6 +368,12 @@
     },
     "done": true
   },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2026-10-31 04:52:38 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:25:18 +0000"

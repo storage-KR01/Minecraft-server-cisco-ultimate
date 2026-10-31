@@ -2542,15 +2542,15 @@
     },
     "done": true
   },
-  "iter_rpg:iter_cursed": {
-    "criteria": {
-      "iter_cursed": "2026-10-30 14:30:13 +0000"
-    },
-    "done": true
-  },
   "aether:silver_dungeon": {
     "criteria": {
       "kill_valkyrie_queen": "2026-10-30 14:04:04 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_cursed": {
+    "criteria": {
+      "iter_cursed": "2026-10-30 14:30:13 +0000"
     },
     "done": true
   },
@@ -2767,7 +2767,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2026-10-30 14:38:20 +0000"
+      "not_target": "2026-10-31 03:19:38 +0000"
     },
     "done": false
   },
