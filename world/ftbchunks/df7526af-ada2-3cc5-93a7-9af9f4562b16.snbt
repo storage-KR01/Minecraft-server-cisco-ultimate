@@ -1,7 +1,7 @@
 {
 	max_claim_chunks: 500
 	max_force_load_chunks: 25
-	last_login_time: 1793422612377L
+	last_login_time: 1793434456359L
 	chunks: {
 		"minecraft:overworld": [
 			{ x: 52, z: 8, time: 1793192619033L }
@@ -37,8 +37,9 @@
 			{ x: 54, z: 8, time: 1793192619843L }
 			{ x: 55, z: 4, time: 1793192621355L }
 			{ x: 55, z: 5, time: 1793192621038L }
-			{ x: 84, z: 2, time: 1793328451588L }
+			{ x: 84, z: 2, time: 1793328451588L, force_loaded: 1793436662715L }
 			{ x: 55, z: 6, time: 1793192620789L }
+			{ x: 84, z: 3, time: 1793436658596L }
 			{ x: 53, z: 5, time: 1793192623959L }
 			{ x: 53, z: 6, time: 1793192623624L }
 			{ x: 53, z: 7, time: 1793192623362L }

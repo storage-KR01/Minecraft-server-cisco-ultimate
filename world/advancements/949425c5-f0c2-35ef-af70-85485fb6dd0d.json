@@ -441,6 +441,7 @@
       "entered_druid_circle": "2026-10-21 04:25:37 +0000",
       "entered_large_dungeon": "2026-10-28 14:47:03 +0000",
       "entered_dungeon_variant": "2026-10-31 04:24:11 +0000",
+      "entered_sunken_shrine": "2026-10-31 14:28:42 +0000",
       "entered_ruined_building": "2026-10-12 04:37:29 +0000",
       "entered_witch_tower": "2026-10-29 01:57:24 +0000"
     },
@@ -858,6 +859,7 @@
       "minecraft:spider": "2026-10-13 12:22:18 +0000",
       "minecraft:piglin_brute": "2026-10-20 13:06:35 +0000",
       "minecraft:creeper": "2026-10-12 04:21:55 +0000",
+      "minecraft:wither": "2026-10-31 07:29:40 +0000",
       "minecraft:evoker": "2026-10-19 06:32:15 +0000",
       "minecraft:slime": "2026-10-21 15:06:50 +0000",
       "minecraft:phantom": "2026-10-16 07:40:56 +0000",
@@ -1679,6 +1681,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2026-10-29 07:20:21 +0000",
       "minecraft:old_growth_pine_taiga": "2026-10-18 06:26:29 +0000",
+      "minecraft:mushroom_fields": "2026-10-31 14:12:00 +0000",
       "minecraft:taiga": "2026-10-12 13:31:26 +0000",
       "minecraft:deep_ocean": "2026-10-15 06:19:54 +0000",
       "atmospheric:rainforest_basin": "2026-10-19 06:56:02 +0000",
@@ -1687,6 +1690,7 @@
       "minecraft:sunflower_plains": "2026-10-28 14:52:14 +0000",
       "minecraft:birch_forest": "2026-10-18 03:24:36 +0000",
       "minecraft:windswept_hills": "2026-10-21 04:10:08 +0000",
+      "minecraft:bamboo_jungle": "2026-10-31 08:22:46 +0000",
       "minecraft:badlands": "2026-10-22 18:52:49 +0000",
       "minecraft:beach": "2026-10-12 03:46:40 +0000",
       "minecraft:dark_forest": "2026-10-19 15:16:20 +0000",
@@ -2060,6 +2064,12 @@
     },
     "done": true
   },
+  "unusualend:hyperspace_jump": {
+    "criteria": {
+      "hyperspace_jump": "2026-10-31 07:23:20 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
@@ -2217,6 +2227,12 @@
   "enigmaticlegacy:book/misc/astral_potato": {
     "criteria": {
       "has_the_recipe": "2026-10-23 13:59:13 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2026-10-31 07:55:00 +0000"
     },
     "done": true
   },
@@ -3081,6 +3097,12 @@
     },
     "done": true
   },
+  "progressivebosses:max_diff_wither": {
+    "criteria": {
+      "max_diff_wither": "2026-10-31 07:31:10 +0000"
+    },
+    "done": true
+  },
   "vinery:flower_pot": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
@@ -3345,6 +3367,12 @@
   "unusualend:you_but_stronger": {
     "criteria": {
       "you_but_stronger": "2026-10-30 04:23:16 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:buy_map": {
+    "criteria": {
+      "trade": "2026-10-31 14:01:41 +0000"
     },
     "done": true
   },
@@ -3672,9 +3700,11 @@
       "byg:red_oak_forest": "2026-10-18 03:24:35 +0000",
       "byg:redwood_thicket": "2026-10-23 05:04:55 +0000",
       "byg:cypress_swamplands": "2026-10-28 14:59:25 +0000",
+      "byg:fragment_forest": "2026-10-31 08:24:11 +0000",
       "byg:autumnal_forest": "2026-10-22 02:44:48 +0000",
       "byg:white_mangrove_marshes": "2026-10-22 18:30:19 +0000",
       "byg:warped_desert": "2026-10-16 07:10:23 +0000",
+      "byg:firecracker_shrubland": "2026-10-31 08:04:53 +0000",
       "byg:weeping_witch_forest": "2026-10-31 04:59:11 +0000",
       "byg:magma_wastes": "2026-10-16 07:10:26 +0000",
       "byg:atacama_desert": "2026-10-22 18:28:39 +0000",
@@ -3688,12 +3718,14 @@
       "byg:aspen_forest": "2026-10-19 06:36:38 +0000",
       "byg:skyris_vale": "2026-10-12 13:33:20 +0000",
       "byg:imparius_grove": "2026-10-30 05:03:29 +0000",
+      "byg:forgotten_forest": "2026-10-31 08:24:14 +0000",
       "byg:crimson_gardens": "2026-10-20 04:11:34 +0000",
       "byg:nightshade_forest": "2026-10-30 05:00:46 +0000",
       "byg:shulkren_forest": "2026-10-30 04:21:29 +0000",
       "byg:baobab_savanna": "2026-10-19 14:32:49 +0000",
       "byg:brimstone_caverns": "2026-10-16 07:12:59 +0000",
       "byg:amaranth_fields": "2026-10-19 06:55:40 +0000",
+      "byg:ebony_woods": "2026-10-31 14:03:49 +0000",
       "byg:weeping_mire": "2026-10-15 02:30:49 +0000",
       "byg:basalt_barrera": "2026-10-18 06:23:58 +0000",
       "byg:maple_taiga": "2026-10-15 01:50:05 +0000",
@@ -3760,7 +3792,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2026-10-31 05:02:10 +0000"
+      "!bit13": "2026-10-31 14:53:46 +0000",
+      "!bit14": "2026-10-31 14:53:46 +0000",
+      "!bit11": "2026-10-31 14:53:46 +0000",
+      "!bit12": "2026-10-31 14:53:46 +0000",
+      "!bit10": "2026-10-31 14:53:46 +0000",
+      "!bit9": "2026-10-31 14:53:46 +0000",
+      "!bit8": "2026-10-31 14:53:46 +0000",
+      "!bit7": "2026-10-31 14:53:46 +0000",
+      "!bit6": "2026-10-31 14:53:46 +0000",
+      "!bit5": "2026-10-31 14:53:46 +0000",
+      "!bit4": "2026-10-31 14:53:46 +0000",
+      "!bit3": "2026-10-31 14:53:46 +0000",
+      "!bit2": "2026-10-31 14:53:46 +0000",
+      "!bit1": "2026-10-31 14:53:46 +0000",
+      "!bit0": "2026-10-31 14:53:46 +0000"
     },
     "done": false
   },

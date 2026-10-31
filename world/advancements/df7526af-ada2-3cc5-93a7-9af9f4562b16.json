@@ -915,6 +915,12 @@
     },
     "done": true
   },
+  "celestisynth:obtain_breezebreaker": {
+    "criteria": {
+      "criteria": "2026-10-31 07:20:41 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/armor/etherium_armor": {
     "criteria": {
       "has_the_recipe1": "2026-10-14 03:25:01 +0000"
