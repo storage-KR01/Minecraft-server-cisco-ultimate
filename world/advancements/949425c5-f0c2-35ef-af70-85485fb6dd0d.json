@@ -491,6 +491,12 @@
     },
     "done": true
   },
+  "ciscounbound:descent_into_madness": {
+    "criteria": {
+      "descent_into_madness": "2026-11-01 15:55:57 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/enchanter_pearl": {
     "criteria": {
       "has_the_recipe": "2026-10-19 13:41:28 +0000"
@@ -1087,6 +1093,12 @@
   "apotheosis:spawner/spawncount": {
     "criteria": {
       "modifier": "2026-10-22 03:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2026-11-01 14:07:45 +0000"
     },
     "done": true
   },
@@ -2106,6 +2118,12 @@
     },
     "done": true
   },
+  "cisco_mod:descent_into_madness": {
+    "criteria": {
+      "descent_into_madness": "2026-11-01 15:55:57 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/tools/dragon_bow": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
@@ -2165,6 +2183,12 @@
       "log_spam_fixer": "2026-10-12 03:30:47 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
+    "criteria": {
+      "requirement": "2026-11-01 15:07:34 +0000"
+    },
+    "done": true
   },
   "cisco_mod:silver_wolfs_bite": {
     "criteria": {
@@ -3022,9 +3046,10 @@
   },
   "enigmaticlegacy:book/relics/eldritch_amulet": {
     "criteria": {
+      "has_recipe_result": "2026-11-01 15:29:03 +0000",
       "is_the_cursed_one": "2026-10-12 06:13:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_gray": {
     "criteria": {
@@ -3082,6 +3107,12 @@
     "criteria": {
       "has_parent_recipe": "2026-10-12 04:40:07 +0000",
       "has_items": "2026-10-13 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruined_portal_end": {
+    "criteria": {
+      "in_ruined_portal_end": "2026-11-01 04:44:56 +0000"
     },
     "done": true
   },
@@ -3789,26 +3820,6 @@
       "enchanted_item": "2026-10-13 04:17:25 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "!bit13": "2026-10-31 14:53:46 +0000",
-      "!bit14": "2026-10-31 14:53:46 +0000",
-      "!bit11": "2026-10-31 14:53:46 +0000",
-      "!bit12": "2026-10-31 14:53:46 +0000",
-      "!bit10": "2026-10-31 14:53:46 +0000",
-      "!bit9": "2026-10-31 14:53:46 +0000",
-      "!bit8": "2026-10-31 14:53:46 +0000",
-      "!bit7": "2026-10-31 14:53:46 +0000",
-      "!bit6": "2026-10-31 14:53:46 +0000",
-      "!bit5": "2026-10-31 14:53:46 +0000",
-      "!bit4": "2026-10-31 14:53:46 +0000",
-      "!bit3": "2026-10-31 14:53:46 +0000",
-      "!bit2": "2026-10-31 14:53:46 +0000",
-      "!bit1": "2026-10-31 14:53:46 +0000",
-      "!bit0": "2026-10-31 14:53:46 +0000"
-    },
-    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {

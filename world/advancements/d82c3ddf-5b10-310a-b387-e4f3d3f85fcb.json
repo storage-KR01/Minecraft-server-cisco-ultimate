@@ -952,6 +952,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2026-11-01 14:47:05 +0000"
+    },
+    "done": true
+  },
   "vinery:acacia_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:40:30 +0000"
@@ -1525,6 +1531,12 @@
   "enigmaticaddons:book/tools/dragon_bow": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_master": {
+    "criteria": {
+      "is_triggered": "2026-11-01 14:47:05 +0000"
     },
     "done": true
   },

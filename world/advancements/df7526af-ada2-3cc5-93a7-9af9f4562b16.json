@@ -1471,6 +1471,12 @@
     },
     "done": true
   },
+  "simplyswords:the_watcher": {
+    "criteria": {
+      "requirement": "2026-11-01 03:03:34 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wither": {
     "criteria": {
       "has_item": "2026-10-13 14:00:47 +0000"
@@ -1598,6 +1604,12 @@
     },
     "done": true
   },
+  "cisco_mod:darksteel_advancement": {
+    "criteria": {
+      "darksteel_advancement": "2026-11-01 15:15:10 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -1674,6 +1686,7 @@
       "atmospheric:aspen_parkland": "2026-10-19 06:07:32 +0000",
       "minecraft:forest": "2026-10-12 03:49:57 +0000",
       "minecraft:lush_caves": "2026-10-19 06:14:02 +0000",
+      "minecraft:ice_spikes": "2026-11-01 14:39:53 +0000",
       "minecraft:frozen_ocean": "2026-10-28 13:45:11 +0000",
       "minecraft:desert": "2026-10-28 13:14:42 +0000",
       "minecraft:deep_frozen_ocean": "2026-10-28 13:46:11 +0000",
@@ -1686,6 +1699,7 @@
       "minecraft:deep_lukewarm_ocean": "2026-10-19 06:30:07 +0000",
       "minecraft:flower_forest": "2026-10-22 13:14:30 +0000",
       "atmospheric:scrubland": "2026-10-19 06:35:40 +0000",
+      "minecraft:frozen_peaks": "2026-11-01 03:27:48 +0000",
       "minecraft:old_growth_birch_forest": "2026-10-13 02:00:16 +0000",
       "atmospheric:laurel_forest": "2026-10-17 03:14:01 +0000",
       "minecraft:deep_dark": "2026-10-14 03:58:40 +0000",
@@ -2576,6 +2590,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/the_infinitum": {
+    "criteria": {
+      "infinitum": "2026-11-01 03:56:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2026-10-12 04:13:53 +0000"
@@ -2885,9 +2905,10 @@
   "enigmaticlegacy:book/relics/eldritch_amulet": {
     "criteria": {
       "has_item_1": "2026-10-29 14:21:06 +0000",
+      "has_item_2": "2026-11-01 14:52:32 +0000",
       "is_the_cursed_one": "2026-10-12 03:34:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "endrem:main/old_eye": {
     "criteria": {
@@ -2969,6 +2990,12 @@
   "progressivebosses:max_diff_wither": {
     "criteria": {
       "max_diff_wither": "2026-10-19 13:34:37 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:slumbering_lichblade": {
+    "criteria": {
+      "requirement": "2026-11-01 14:59:37 +0000"
     },
     "done": true
   },
@@ -3744,6 +3771,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-11-01 02:33:37 +0000"
+    },
+    "done": true
+  },
   "galosphere:adventure/silver_ingot": {
     "criteria": {
       "silver_ingot": "2026-10-13 13:45:00 +0000"
@@ -3932,6 +3965,12 @@
     },
     "done": true
   },
+  "aether:gravitite_armor": {
+    "criteria": {
+      "gravitite_boots": "2026-11-01 03:32:18 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:book/relics/golem_heart": {
     "criteria": {
       "has_items": "2026-10-12 11:58:17 +0000"
@@ -3973,6 +4012,12 @@
   "enigmaticlegacy:recipes/generic/animal_guidebook": {
     "criteria": {
       "has_items": "2026-10-12 03:46:07 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/the_twist": {
+    "criteria": {
+      "twist": "2026-11-01 03:55:49 +0000"
     },
     "done": true
   },

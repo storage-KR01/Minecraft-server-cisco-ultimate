@@ -61,6 +61,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:booster_used": {
+    "criteria": {
+      "booster_used": "2026-11-01 03:01:55 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2026-10-12 04:25:18 +0000"
@@ -199,6 +205,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2026-11-01 14:25:18 +0000"
+    },
+    "done": true
+  },
   "royalvariations:explosive_king": {
     "criteria": {
       "explosive_king": "2026-10-28 03:46:16 +0000"
@@ -251,6 +263,12 @@
   "enigmaticlegacy:book/misc/twisted_mirror": {
     "criteria": {
       "has_the_recipe": "2026-10-16 14:39:01 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:booster_nice": {
+    "criteria": {
+      "booster_nice": "2026-11-01 03:01:55 +0000"
     },
     "done": true
   },
@@ -339,6 +357,12 @@
     },
     "done": true
   },
+  "lootr:1shulker": {
+    "criteria": {
+      "opened_shulker": "2026-11-01 14:38:48 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:25:18 +0000"
@@ -413,6 +437,12 @@
     },
     "done": true
   },
+  "ciscounbound:descent_into_madness": {
+    "criteria": {
+      "descent_into_madness": "2026-11-01 14:09:39 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/enchanter_pearl": {
     "criteria": {
       "has_the_recipe": "2026-10-17 15:37:21 +0000"
@@ -424,6 +454,12 @@
       "has_items": "2026-10-13 03:30:45 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/redstonelamps": {
+    "criteria": {
+      "has_core_block": "2026-11-01 14:24:30 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/accessories/golden_ring": {
     "criteria": {
@@ -637,6 +673,12 @@
     },
     "done": true
   },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_end": "2026-11-01 14:25:13 +0000"
+    },
+    "done": false
+  },
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2026-10-15 02:54:40 +0000"
@@ -664,9 +706,11 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2026-10-12 04:46:30 +0000",
-      "opened_chest": "2026-10-12 04:30:09 +0000"
+      "opened_shulker": "2026-11-01 14:38:48 +0000",
+      "opened_chest": "2026-10-12 04:30:09 +0000",
+      "opened_cart": "2026-11-01 14:25:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "iter_rpg:economy": {
     "criteria": {
@@ -713,12 +757,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2026-10-27 10:16:26 +0000",
+      "minecraft:blaze": "2026-11-01 03:47:59 +0000",
       "minecraft:skeleton": "2026-10-13 13:05:42 +0000",
       "minecraft:elder_guardian": "2026-10-31 14:18:57 +0000",
       "minecraft:ravager": "2026-10-27 10:37:32 +0000",
       "minecraft:hoglin": "2026-10-31 08:25:52 +0000",
       "minecraft:guardian": "2026-10-31 14:08:49 +0000",
       "minecraft:vindicator": "2026-10-20 07:46:31 +0000",
+      "minecraft:magma_cube": "2026-11-01 03:51:34 +0000",
       "minecraft:spider": "2026-10-14 04:08:43 +0000",
       "minecraft:piglin_brute": "2026-10-31 08:19:56 +0000",
       "minecraft:creeper": "2026-10-16 15:41:06 +0000",
@@ -736,6 +782,7 @@
       "minecraft:enderman": "2026-10-13 10:02:03 +0000",
       "minecraft:stray": "2026-10-13 10:03:36 +0000",
       "minecraft:silverfish": "2026-10-13 13:25:23 +0000",
+      "minecraft:endermite": "2026-11-01 14:28:02 +0000",
       "minecraft:vex": "2026-10-27 10:32:17 +0000",
       "minecraft:zombie": "2026-10-13 10:03:45 +0000",
       "minecraft:drowned": "2026-10-21 04:25:24 +0000"
@@ -806,6 +853,12 @@
     },
     "done": false
   },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2026-11-01 04:39:53 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/etherium_sword": {
     "criteria": {
       "has_parent_recipe": "2026-10-12 14:42:49 +0000",
@@ -854,6 +907,12 @@
       "previous_progression": "2026-10-19 07:24:41 +0000"
     },
     "done": false
+  },
+  "phantasm:enter_underisland": {
+    "criteria": {
+      "enter_underisland": "2026-11-01 04:34:33 +0000"
+    },
+    "done": true
   },
   "vinery:wine_press": {
     "criteria": {
@@ -1122,6 +1181,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2026-11-01 04:06:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2026-10-13 10:01:52 +0000"
@@ -1218,6 +1283,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2026-11-01 14:41:33 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_bottle": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:25:18 +0000"
@@ -1257,6 +1328,12 @@
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:25:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2026-11-01 04:40:14 +0000"
     },
     "done": true
   },
@@ -1611,6 +1688,12 @@
     },
     "done": true
   },
+  "dungeons_plus:end/find_end_ruins": {
+    "criteria": {
+      "in_structure": "2026-11-01 14:30:39 +0000"
+    },
+    "done": true
+  },
   "cisco_mod:cover_me_in_bright_steel": {
     "criteria": {
       "cover_me_in_bright_steel": "2026-10-14 14:43:34 +0000"
@@ -1857,6 +1940,12 @@
   "enigmaticlegacy:book/relics/unholy_grail": {
     "criteria": {
       "has_items": "2026-10-16 14:33:50 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:descent_into_madness": {
+    "criteria": {
+      "descent_into_madness": "2026-11-01 14:09:39 +0000"
     },
     "done": true
   },
@@ -2222,6 +2311,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2026-11-01 04:40:14 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/angel_blessing": {
     "criteria": {
       "has_items": "2026-10-12 15:31:58 +0000"
@@ -2357,6 +2452,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/haste_potion": {
+    "criteria": {
+      "has_items": "2026-11-01 03:58:53 +0000"
+    },
+    "done": true
+  },
   "vinery:loam_stairs": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:25:18 +0000"
@@ -2486,6 +2587,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2026-10-15 03:59:19 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2026-11-01 02:42:01 +0000"
     },
     "done": true
   },
@@ -3286,6 +3393,7 @@
       "byg:wailing_garth": "2026-10-17 15:10:38 +0000",
       "byg:dacite_ridges": "2026-10-27 11:20:55 +0000",
       "byg:autumnal_valley": "2026-10-13 03:19:50 +0000",
+      "byg:ethereal_islands": "2026-11-01 04:16:16 +0000",
       "byg:aspen_forest": "2026-10-27 10:16:48 +0000",
       "byg:skyris_vale": "2026-10-13 03:16:14 +0000",
       "byg:imparius_grove": "2026-10-30 12:47:23 +0000",
@@ -3356,7 +3464,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2026-10-31 14:49:09 +0000"
+      "target": "2026-11-01 15:40:05 +0000"
     },
     "done": false
   },
@@ -3646,6 +3754,12 @@
     "criteria": {
       "has_items": "2026-10-17 15:37:21 +0000",
       "is_cursed_one": "2026-10-12 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2026-11-01 04:06:16 +0000"
     },
     "done": true
   },
