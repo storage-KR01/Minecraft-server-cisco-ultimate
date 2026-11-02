@@ -3035,6 +3035,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2026-11-02 04:10:49 +0000"
+    },
+    "done": false
+  },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2026-10-12 04:40:42 +0000"

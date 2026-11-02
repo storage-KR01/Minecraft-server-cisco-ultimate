@@ -962,6 +962,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2026-11-02 04:26:24 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:ashesof_allegiance": {
+    "criteria": {
+      "ashesof_allegiance": "2026-11-02 04:29:20 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2026-10-12 04:23:17 +0000"
@@ -2734,6 +2746,12 @@
     },
     "done": true
   },
+  "majruszsenchantments:scholar": {
+    "criteria": {
+      "has_met_requirement": "2026-11-02 03:13:13 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:23:17 +0000"
@@ -2987,6 +3005,12 @@
     },
     "done": true
   },
+  "ciscounbound:ascensio_tenebris": {
+    "criteria": {
+      "umbral": "2026-11-02 04:29:20 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/insignia": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:38:41 +0000"
@@ -3004,6 +3028,12 @@
       "has_the_recipe": "2026-10-12 04:23:17 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2026-11-02 05:04:26 +0000"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
@@ -3139,6 +3169,12 @@
   "enigmaticlegacy:book/tools/infernal_shield": {
     "criteria": {
       "has_the_recipe": "2026-10-22 15:28:43 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:the_silver_wolf": {
+    "criteria": {
+      "the_silver_wolf": "2026-11-02 03:07:47 +0000"
     },
     "done": true
   },

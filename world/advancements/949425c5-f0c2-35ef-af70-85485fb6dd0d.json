@@ -182,6 +182,13 @@
     },
     "done": true
   },
+  "deep_aether:aether_champion": {
+    "criteria": {
+      "slider": "2026-11-02 02:28:41 +0000",
+      "valkyrie_queen": "2026-11-02 02:53:22 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:book/accessories/enigmatic_elytra": {
     "criteria": {
       "has_the_recipe": "2026-10-15 15:00:10 +0000"
@@ -372,6 +379,12 @@
     },
     "done": true
   },
+  "cisco_mod:fallen_armorgivead": {
+    "criteria": {
+      "fallen_armorgivead": "2026-11-02 14:57:40 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
@@ -411,6 +424,12 @@
   "enigmaticlegacy:book/materials/netherite": {
     "criteria": {
       "has_scrap": "2026-10-12 12:10:19 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:azure_ascendant": {
+    "criteria": {
+      "azure_ascendant": "2026-11-02 15:07:23 +0000"
     },
     "done": true
   },
@@ -598,6 +617,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2026-10-12 05:56:33 +0000"
+    },
+    "done": true
+  },
+  "progressivebosses:max_diff_dragon": {
+    "criteria": {
+      "max_diff_dragon": "2026-11-02 03:58:56 +0000"
     },
     "done": true
   },
@@ -887,6 +912,12 @@
       "minecraft:zombie_villager": "2026-10-22 02:57:50 +0000"
     },
     "done": false
+  },
+  "simplyswords:watching_warglaive": {
+    "criteria": {
+      "requirement": "2026-11-02 14:09:39 +0000"
+    },
+    "done": true
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
@@ -1226,6 +1257,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2026-11-02 03:20:43 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/misc/ichoroot": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
@@ -1247,6 +1284,12 @@
   "alexsmobs:alexsmobs/cosmic_cod": {
     "criteria": {
       "capsid": "2026-10-30 13:20:50 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:ashesof_allegiance": {
+    "criteria": {
+      "ashesof_allegiance": "2026-11-02 04:29:20 +0000"
     },
     "done": true
   },
@@ -1364,6 +1407,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2026-11-02 04:23:24 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2026-10-12 12:02:13 +0000"
@@ -1403,6 +1452,12 @@
   "enigmaticlegacy:book/accessories/mining_charm": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:00:29 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:rad_advancement": {
+    "criteria": {
+      "rad_advancement": "2026-11-02 14:06:09 +0000"
     },
     "done": true
   },
@@ -1448,6 +1503,12 @@
     },
     "done": true
   },
+  "totw_modded:derelict_grass_tower": {
+    "criteria": {
+      "derelict_grass": "2026-11-02 06:22:43 +0000"
+    },
+    "done": true
+  },
   "endrem:main/rogue_eye": {
     "criteria": {
       "rogue_eye": "2026-10-21 04:39:40 +0000"
@@ -1487,6 +1548,12 @@
   "comforts:hammock_light_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
+    },
+    "done": true
+  },
+  "aether:hammer_loot": {
+    "criteria": {
+      "hammer_loot": "2026-11-02 02:48:38 +0000"
     },
     "done": true
   },
@@ -1862,6 +1929,12 @@
     },
     "done": true
   },
+  "aether:ice_accessory": {
+    "criteria": {
+      "ice_ring": "2026-11-02 02:42:40 +0000"
+    },
+    "done": true
+  },
   "endrem:main/guardian_eye": {
     "criteria": {
       "guardian_eye": "2026-10-29 13:21:02 +0000"
@@ -1931,6 +2004,12 @@
   "vinery:coarse_dirt_slab": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
+    },
+    "done": true
+  },
+  "aether:gold_dungeon": {
+    "criteria": {
+      "kill_sun_spirit": "2026-11-02 02:41:50 +0000"
     },
     "done": true
   },
@@ -2187,6 +2266,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
     "criteria": {
       "requirement": "2026-11-01 15:07:34 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:cisco_armor_advancement": {
+    "criteria": {
+      "cisco_armor_advancement": "2026-11-02 14:20:04 +0000"
     },
     "done": true
   },
@@ -2644,6 +2729,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2026-11-02 06:46:12 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:book/relics/cursed_ring": {
     "criteria": {
       "has_items": "2026-10-12 03:30:47 +0000"
@@ -2683,6 +2774,12 @@
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:anewlegend": {
+    "criteria": {
+      "anewlegend": "2026-11-02 14:37:41 +0000"
     },
     "done": true
   },
@@ -2830,6 +2927,12 @@
   "vinery:wine_rack_5": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
+    },
+    "done": true
+  },
+  "aether:phoenix_armor": {
+    "criteria": {
+      "phoenix_gloves": "2026-11-02 02:42:24 +0000"
     },
     "done": true
   },
@@ -3134,6 +3237,12 @@
     },
     "done": true
   },
+  "simplyswords:slumbering_lichblade": {
+    "criteria": {
+      "requirement": "2026-11-02 02:18:18 +0000"
+    },
+    "done": true
+  },
   "vinery:flower_pot": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
@@ -3174,6 +3283,12 @@
   "apotheosis:enchanting/endshelf": {
     "criteria": {
       "endshelf": "2026-10-25 03:29:39 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:idol_of_fertility": {
+    "criteria": {
+      "picked_up_accessory": "2026-11-02 06:46:16 +0000"
     },
     "done": true
   },
@@ -3253,6 +3368,12 @@
   "aether:enter_aether": {
     "criteria": {
       "enter_aether": "2026-10-30 13:53:39 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/players": {
+    "criteria": {
+      "modifier": "2026-11-02 12:17:01 +0000"
     },
     "done": true
   },
@@ -3558,6 +3679,12 @@
     },
     "done": true
   },
+  "aether:bronze_dungeon": {
+    "criteria": {
+      "kill_slider": "2026-11-02 02:28:41 +0000"
+    },
+    "done": true
+  },
   "mythicmounts:summoning_staff": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
@@ -3746,6 +3873,7 @@
       "byg:bayou": "2026-10-28 14:57:10 +0000",
       "byg:autumnal_valley": "2026-10-13 11:39:21 +0000",
       "byg:ethereal_islands": "2026-10-30 05:05:53 +0000",
+      "byg:howling_peaks": "2026-11-02 04:57:48 +0000",
       "byg:aspen_forest": "2026-10-19 06:36:38 +0000",
       "byg:skyris_vale": "2026-10-12 13:33:20 +0000",
       "byg:imparius_grove": "2026-10-30 05:03:29 +0000",
@@ -3791,6 +3919,12 @@
     },
     "done": true
   },
+  "ciscounbound:ascensio_tenebris": {
+    "criteria": {
+      "umbral": "2026-11-02 04:29:20 +0000"
+    },
+    "done": true
+  },
   "enemyexpansion:vampire_slayer": {
     "criteria": {
       "vampire_slayer_0": "2026-10-23 13:07:01 +0000"
@@ -3820,6 +3954,12 @@
       "enchanted_item": "2026-10-13 04:17:25 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2026-11-02 15:55:26 +0000"
+    },
+    "done": false
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
@@ -4057,6 +4197,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2026-11-02 06:46:12 +0000"
+    },
+    "done": true
+  },
   "apotheosis:spawner/modifier": {
     "criteria": {
       "modifier": "2026-10-17 14:49:56 +0000"
@@ -4120,7 +4266,10 @@
   },
   "aether:gravitite_armor": {
     "criteria": {
-      "gravitite_chestplate": "2026-10-30 13:59:27 +0000"
+      "gravitite_chestplate": "2026-10-30 13:59:27 +0000",
+      "gravitite_helmet": "2026-11-02 02:42:33 +0000",
+      "gravitite_leggings": "2026-11-02 02:42:33 +0000",
+      "gravitite_boots": "2026-11-02 02:42:33 +0000"
     },
     "done": false
   },

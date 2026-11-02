@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2026-11-02 03:45:16 +0000"
+    },
+    "done": true
+  },
   "vinery:dark_oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -20,6 +26,12 @@
   "vinery:birch_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:balance_unbound": {
+    "criteria": {
+      "balance_unbound": "2026-11-02 04:47:28 +0000"
     },
     "done": true
   },
@@ -329,6 +341,12 @@
     },
     "done": true
   },
+  "cisco_mod:heir_of_shadows": {
+    "criteria": {
+      "heir_of_shadows": "2026-11-02 04:55:57 +0000"
+    },
+    "done": true
+  },
   "aquamirae:recipes/oxygen_tank": {
     "criteria": {
       "has_item": "2026-10-28 14:12:55 +0000"
@@ -381,6 +399,12 @@
   "aether:icestone": {
     "criteria": {
       "icestone": "2026-10-30 14:06:17 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:fallen_armorgivead": {
+    "criteria": {
+      "fallen_armorgivead": "2026-11-02 04:50:36 +0000"
     },
     "done": true
   },
@@ -817,6 +841,12 @@
     },
     "done": true
   },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2026-11-02 04:05:53 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -1193,6 +1223,12 @@
     },
     "done": true
   },
+  "cisco_mod:ashesof_allegiance": {
+    "criteria": {
+      "ashesof_allegiance": "2026-11-02 04:29:20 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/materials/etherium": {
     "criteria": {
       "has_items": "2026-10-14 03:25:01 +0000"
@@ -1362,6 +1398,12 @@
     },
     "done": true
   },
+  "cisco_mod:rad_advancement": {
+    "criteria": {
+      "rad_advancement": "2026-11-02 04:44:09 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -1498,6 +1540,12 @@
   "enigmaticlegacy:book/tools/ender_slayer": {
     "criteria": {
       "has_the_recipe": "2026-10-18 02:34:36 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:nightfall_ad": {
+    "criteria": {
+      "nightfall_ad": "2026-11-02 04:46:51 +0000"
     },
     "done": true
   },
@@ -1686,6 +1734,7 @@
       "atmospheric:aspen_parkland": "2026-10-19 06:07:32 +0000",
       "minecraft:forest": "2026-10-12 03:49:57 +0000",
       "minecraft:lush_caves": "2026-10-19 06:14:02 +0000",
+      "minecraft:deep_cold_ocean": "2026-11-02 03:37:48 +0000",
       "minecraft:ice_spikes": "2026-11-01 14:39:53 +0000",
       "minecraft:frozen_ocean": "2026-10-28 13:45:11 +0000",
       "minecraft:desert": "2026-10-28 13:14:42 +0000",
@@ -1693,6 +1742,7 @@
       "minecraft:ocean": "2026-10-12 04:48:46 +0000",
       "minecraft:jungle": "2026-10-19 06:19:56 +0000",
       "atmospheric:sparse_rainforest_basin": "2026-10-20 03:01:39 +0000",
+      "minecraft:old_growth_spruce_taiga": "2026-11-02 03:54:12 +0000",
       "minecraft:snowy_beach": "2026-10-28 13:45:09 +0000",
       "minecraft:windswept_savanna": "2026-10-19 05:58:34 +0000",
       "minecraft:warm_ocean": "2026-10-19 06:27:52 +0000",
@@ -1898,6 +1948,12 @@
     },
     "done": true
   },
+  "cisco_mod:sleeping_sword": {
+    "criteria": {
+      "sleeping_sword": "2026-11-02 04:40:26 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/forger_gem": {
     "criteria": {
       "has_items": "2026-10-13 14:51:08 +0000"
@@ -2005,6 +2061,12 @@
       "has_parent_recipe": "2026-10-14 04:33:29 +0000",
       "has_items": "2026-10-18 02:34:36 +0000",
       "is_cursed_one": "2026-10-12 03:34:42 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:certificate_of_taming": {
+    "criteria": {
+      "picked_up_accessory": "2026-11-02 03:54:59 +0000"
     },
     "done": true
   },
@@ -2122,6 +2184,12 @@
     },
     "done": false
   },
+  "cisco_mod:cisco_armor_advancement": {
+    "criteria": {
+      "cisco_armor_advancement": "2026-11-02 04:48:41 +0000"
+    },
+    "done": true
+  },
   "cisco_mod:silver_wolfs_bite": {
     "criteria": {
       "silver_wolfs_bite": "2026-10-16 14:31:53 +0000"
@@ -2200,6 +2268,12 @@
     },
     "done": true
   },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "pink": "2026-11-02 03:58:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2026-10-15 02:34:39 +0000"
@@ -2263,6 +2337,12 @@
   "enigmaticlegacy:recipes/generic/etherium_chestplate": {
     "criteria": {
       "has_items": "2026-10-14 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "ciscounbound:balance_unbound": {
+    "criteria": {
+      "balance_unbound": "2026-11-02 04:47:28 +0000"
     },
     "done": true
   },
@@ -2768,6 +2848,12 @@
   "enigmaticlegacy:recipes/generic/forbidden_axe": {
     "criteria": {
       "has_items": "2026-10-15 14:13:20 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:awakened_equllibrium_advancement": {
+    "criteria": {
+      "awakened_equllibrium_advancement": "2026-11-02 04:45:29 +0000"
     },
     "done": true
   },
@@ -3635,6 +3721,12 @@
     },
     "done": true
   },
+  "ciscounbound:ascensio_tenebris": {
+    "criteria": {
+      "umbral": "2026-11-02 04:29:20 +0000"
+    },
+    "done": true
+  },
   "enemyexpansion:vampire_slayer": {
     "criteria": {
       "vampire_slayer_0": "2026-10-17 02:54:08 +0000"
@@ -3952,6 +4044,12 @@
       "has_items": "2026-10-29 14:21:06 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:black": "2026-11-02 03:54:59 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_magenta": {
     "criteria": {
