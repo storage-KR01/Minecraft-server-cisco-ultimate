@@ -201,6 +201,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:main/pure_heart": {
+    "criteria": {
+      "core": "2026-11-03 02:20:34 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -1262,6 +1268,12 @@
   "enigmaticlegacy:book/tools/the_twist": {
     "criteria": {
       "has_the_recipe": "2026-10-18 02:34:36 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2026-11-03 08:44:50 +0000"
     },
     "done": true
   },
@@ -2830,6 +2842,12 @@
   "enigmaticlegacy:main/void_pearl": {
     "criteria": {
       "spellstone": "2026-10-13 09:49:03 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2026-11-03 06:41:14 +0000"
     },
     "done": true
   },

@@ -94,9 +94,10 @@
   "enigmaticlegacy:recipes/generic/the_infinitum": {
     "criteria": {
       "has_parent_recipe": "2026-11-01 15:27:46 +0000",
+      "has_items": "2026-11-03 08:08:58 +0000",
       "is_cursed_one": "2026-10-12 04:31:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "vinery:cherry_fence": {
     "criteria": {
@@ -372,7 +373,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_tower_of_the_undead": "2026-10-21 04:31:19 +0000"
+      "entered_tower_of_the_undead": "2026-10-21 04:31:19 +0000",
+      "entered_pillager_camp": "2026-11-03 08:38:22 +0000"
     },
     "done": false
   },
@@ -465,9 +467,10 @@
   "enigmaticlegacy:recipes/generic/desolation_ring": {
     "criteria": {
       "has_parent_recipe": "2026-10-12 04:35:26 +0000",
+      "has_items": "2026-11-03 08:08:58 +0000",
       "is_cursed_one": "2026-10-12 04:31:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "takesapillage:root": {
     "criteria": {
@@ -645,6 +648,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/tools/etherium_sword": {
+    "criteria": {
+      "has_the_recipe": "2026-11-03 02:40:27 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2026-10-12 04:44:22 +0000",
@@ -706,6 +715,7 @@
       "minecraft:spider": "2026-10-20 14:08:32 +0000",
       "minecraft:creeper": "2026-10-22 13:15:18 +0000",
       "minecraft:slime": "2026-10-29 07:23:39 +0000",
+      "minecraft:evoker": "2026-11-03 03:05:17 +0000",
       "minecraft:phantom": "2026-10-13 12:32:42 +0000",
       "minecraft:zombified_piglin": "2026-10-22 15:23:36 +0000",
       "minecraft:wither_skeleton": "2026-10-21 13:59:22 +0000",
@@ -716,6 +726,8 @@
       "minecraft:enderman": "2026-10-12 14:56:40 +0000",
       "minecraft:stray": "2026-10-21 04:12:15 +0000",
       "minecraft:silverfish": "2026-10-21 04:28:07 +0000",
+      "minecraft:endermite": "2026-11-03 02:36:39 +0000",
+      "minecraft:vex": "2026-11-03 07:24:52 +0000",
       "minecraft:zombie": "2026-10-20 13:08:14 +0000",
       "minecraft:zombie_villager": "2026-10-23 15:48:58 +0000"
     },
@@ -781,13 +793,20 @@
   },
   "enigmaticlegacy:recipes/generic/etherium_sword": {
     "criteria": {
-      "has_parent_recipe": "2026-10-12 14:41:23 +0000"
+      "has_parent_recipe": "2026-10-12 14:41:23 +0000",
+      "has_recipe_result": "2026-11-03 02:40:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:book/misc/enchantment_transposer": {
     "criteria": {
       "has_the_recipe": "2026-10-22 14:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-11-03 02:55:26 +0000"
     },
     "done": true
   },
@@ -836,6 +855,12 @@
   "enigmaticlegacy:main/twisted_heart": {
     "criteria": {
       "core": "2026-10-22 15:28:43 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:nerves_of_steel": {
+    "criteria": {
+      "nerves_of_steel": "2026-11-03 03:11:10 +0000"
     },
     "done": true
   },
@@ -896,6 +921,12 @@
   "majruszsdifficulty:wither_treasure_bag": {
     "criteria": {
       "bag_opened": "2026-10-22 13:08:58 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/abyssal_heart": {
+    "criteria": {
+      "heart": "2026-11-03 08:08:58 +0000"
     },
     "done": true
   },
@@ -1115,6 +1146,12 @@
   "ars_nouveau:warp_scroll": {
     "criteria": {
       "has_warp_scroll": "2026-10-12 14:29:56 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2026-11-03 02:52:11 +0000"
     },
     "done": true
   },
@@ -1356,6 +1393,7 @@
     "criteria": {
       "minecraft:taiga": "2026-10-21 04:16:19 +0000",
       "atmospheric:rainforest_basin": "2026-10-21 14:25:34 +0000",
+      "minecraft:deep_ocean": "2026-11-03 08:41:14 +0000",
       "atmospheric:rainforest": "2026-10-21 14:27:17 +0000",
       "minecraft:sunflower_plains": "2026-10-24 04:43:56 +0000",
       "minecraft:birch_forest": "2026-10-13 12:42:23 +0000",
@@ -1365,11 +1403,15 @@
       "minecraft:river": "2026-10-12 04:28:37 +0000",
       "minecraft:lukewarm_ocean": "2026-10-23 15:29:35 +0000",
       "minecraft:stony_shore": "2026-10-21 04:22:29 +0000",
+      "minecraft:snowy_plains": "2026-11-03 02:52:11 +0000",
       "minecraft:dripstone_caves": "2026-10-20 12:58:00 +0000",
       "minecraft:grove": "2026-10-21 04:25:15 +0000",
+      "minecraft:cold_ocean": "2026-11-03 08:40:36 +0000",
       "atmospheric:aspen_parkland": "2026-10-20 13:12:00 +0000",
       "minecraft:forest": "2026-10-12 04:42:33 +0000",
       "minecraft:lush_caves": "2026-10-21 14:35:17 +0000",
+      "minecraft:deep_cold_ocean": "2026-11-03 08:40:39 +0000",
+      "minecraft:ice_spikes": "2026-11-03 02:53:16 +0000",
       "minecraft:desert": "2026-10-31 07:36:37 +0000",
       "minecraft:windswept_forest": "2026-10-30 04:06:27 +0000",
       "minecraft:ocean": "2026-10-12 04:39:01 +0000",
@@ -1680,6 +1722,12 @@
   "majruszsdifficulty:ender_dragon_treasure_bag": {
     "criteria": {
       "bag_opened": "2026-10-29 14:15:04 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/the_infinitum": {
+    "criteria": {
+      "has_the_recipe": "2026-11-03 08:08:58 +0000"
     },
     "done": true
   },
@@ -2100,6 +2148,12 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2026-11-03 08:38:24 +0000"
+    },
+    "done": true
+  },
   "vinery:loam_stairs": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:23:17 +0000"
@@ -2360,6 +2414,7 @@
   },
   "enigmaticlegacy:book/relics/eldritch_amulet": {
     "criteria": {
+      "has_item_1": "2026-11-03 08:08:58 +0000",
       "is_the_cursed_one": "2026-10-12 04:31:42 +0000"
     },
     "done": false
@@ -2512,6 +2567,12 @@
   "vinery:vinemaker_boots": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:23:17 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/desolation_ring": {
+    "criteria": {
+      "has_the_recipe": "2026-11-03 08:08:58 +0000"
     },
     "done": true
   },
@@ -2954,6 +3015,12 @@
     },
     "done": true
   },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2026-11-03 03:30:44 +0000"
+    },
+    "done": true
+  },
   "majruszsaccessories:miner_guide": {
     "criteria": {
       "picked_up_accessory": "2026-10-12 04:52:25 +0000"
@@ -2965,13 +3032,16 @@
       "byg:allium_fields": "2026-10-12 15:17:13 +0000",
       "byg:coconino_meadow": "2026-10-30 13:23:01 +0000",
       "byg:viscal_isles": "2026-11-01 03:51:15 +0000",
+      "byg:bulbis_gardens": "2026-11-03 03:08:22 +0000",
       "byg:glowstone_gardens": "2026-11-01 02:58:32 +0000",
+      "byg:orchard": "2026-11-03 03:12:47 +0000",
       "byg:red_oak_forest": "2026-10-13 12:40:39 +0000",
       "byg:cypress_swamplands": "2026-10-29 04:01:29 +0000",
       "byg:autumnal_forest": "2026-10-22 02:48:27 +0000",
       "byg:warped_desert": "2026-11-01 02:58:58 +0000",
       "byg:zelkova_forest": "2026-10-21 04:46:33 +0000",
       "byg:wailing_garth": "2026-10-20 08:05:34 +0000",
+      "byg:autumnal_valley": "2026-11-03 03:10:56 +0000",
       "byg:aspen_forest": "2026-10-13 12:42:14 +0000",
       "byg:skyris_vale": "2026-10-13 12:38:47 +0000",
       "byg:nightshade_forest": "2026-11-01 03:52:26 +0000",
@@ -3031,7 +3101,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2026-11-02 05:04:26 +0000"
+      "not_target": "2026-11-03 08:38:24 +0000"
     },
     "done": false
   },
@@ -3275,6 +3345,12 @@
   "endrem:main/root": {
     "criteria": {
       "old_eye": "2026-10-12 14:30:16 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/abyssal_heart": {
+    "criteria": {
+      "has_items": "2026-11-03 08:08:58 +0000"
     },
     "done": true
   },

@@ -327,6 +327,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/void_pearl": {
+    "criteria": {
+      "has_items": "2026-11-03 06:44:53 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:25:18 +0000"
@@ -668,6 +674,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2026-11-03 06:44:28 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:creeperling": {
     "criteria": {
       "encountered_creeperling": "2026-10-13 14:33:07 +0000"
@@ -868,6 +880,7 @@
       "spellstone2": "2026-10-12 15:31:58 +0000",
       "spellstone1": "2026-10-12 11:55:29 +0000",
       "spellstone4": "2026-10-17 14:44:17 +0000",
+      "spellstone6": "2026-11-03 06:44:53 +0000",
       "spellstone5": "2026-10-12 14:51:05 +0000"
     },
     "done": false
@@ -1227,6 +1240,12 @@
   "majruszsdifficulty:elder_guardian_treasure_bag": {
     "criteria": {
       "bag_opened": "2026-10-31 14:26:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter_nature_dungeon": {
+    "criteria": {
+      "entered_dungeon": "2026-11-03 06:51:30 +0000"
     },
     "done": true
   },
@@ -2175,6 +2194,12 @@
     },
     "done": true
   },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2026-11-03 02:38:22 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2026-10-12 04:25:18 +0000"
@@ -2651,6 +2676,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
     "criteria": {
       "requirement": "2026-11-01 02:42:01 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/void_pearl": {
+    "criteria": {
+      "spellstone": "2026-11-03 06:44:53 +0000"
     },
     "done": true
   },
@@ -3203,6 +3234,12 @@
     },
     "done": true
   },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everbright": "2026-11-03 06:44:28 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/magnet_ring": {
     "criteria": {
       "spellstone": "2026-10-12 11:52:46 +0000"
@@ -3378,6 +3415,12 @@
     },
     "done": true
   },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everbright": "2026-11-03 06:44:28 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:25:18 +0000"
@@ -3389,6 +3432,7 @@
       "has_item_1": "2026-10-12 11:55:29 +0000",
       "has_item_2": "2026-10-12 15:31:58 +0000",
       "has_item_5": "2026-10-12 14:51:05 +0000",
+      "has_item_6": "2026-11-03 06:44:53 +0000",
       "has_item_4": "2026-10-17 14:44:17 +0000"
     },
     "done": false
@@ -3457,6 +3501,7 @@
       "byg:skyris_vale": "2026-10-13 03:16:14 +0000",
       "byg:imparius_grove": "2026-10-30 12:47:23 +0000",
       "byg:cardinal_tundra": "2026-11-02 15:02:32 +0000",
+      "byg:nightshade_forest": "2026-11-03 02:44:43 +0000",
       "byg:shulkren_forest": "2026-10-30 12:35:00 +0000",
       "byg:weeping_mire": "2026-10-15 03:59:19 +0000",
       "byg:basalt_barrera": "2026-10-27 09:42:48 +0000",
@@ -3531,7 +3576,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2026-11-02 15:46:09 +0000"
+      "not_target": "2026-11-03 06:55:45 +0000"
     },
     "done": false
   },
@@ -3651,6 +3696,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2026-10-17 15:41:32 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:enderman_teleport_attack": {
+    "criteria": {
+      "teleported_player": "2026-11-03 02:45:20 +0000"
     },
     "done": true
   },

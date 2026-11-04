@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2026-11-03 03:06:14 +0000"
+    },
+    "done": true
+  },
   "vinery:dark_oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
@@ -70,6 +76,12 @@
   "vinery:vinemaker_leggings": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_axe": {
+    "criteria": {
+      "has_resource": "2026-11-03 06:35:42 +0000"
     },
     "done": true
   },
@@ -318,6 +330,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2026-11-03 03:14:34 +0000"
+    },
+    "done": true
+  },
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
@@ -513,6 +531,12 @@
   "ciscounbound:descent_into_madness": {
     "criteria": {
       "descent_into_madness": "2026-11-01 15:55:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_sword": {
+    "criteria": {
+      "has_resource": "2026-11-03 06:35:42 +0000"
     },
     "done": true
   },
@@ -760,6 +784,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2026-11-03 06:24:48 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:creeperling": {
     "criteria": {
       "encountered_creeperling": "2026-10-13 14:33:07 +0000"
@@ -940,6 +970,12 @@
   "dungeons_arise:find_mushroom_village": {
     "criteria": {
       "location0": "2026-10-30 02:51:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_pickaxe": {
+    "criteria": {
+      "has_resource": "2026-11-03 06:57:07 +0000"
     },
     "done": true
   },
@@ -1293,6 +1329,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/pyrope_hoe": {
+    "criteria": {
+      "has_resource": "2026-11-03 06:57:07 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2026-10-12 03:30:47 +0000"
@@ -1398,6 +1440,12 @@
   "majruszsdifficulty:elder_guardian_treasure_bag": {
     "criteria": {
       "bag_opened": "2026-10-23 15:07:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter_nature_dungeon": {
+    "criteria": {
+      "entered_dungeon": "2026-11-03 06:36:41 +0000"
     },
     "done": true
   },
@@ -1509,6 +1557,12 @@
     },
     "done": true
   },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2026-11-03 02:52:20 +0000"
+    },
+    "done": true
+  },
   "endrem:main/rogue_eye": {
     "criteria": {
       "rogue_eye": "2026-10-21 04:39:40 +0000"
@@ -1596,6 +1650,12 @@
   "enigmaticlegacy:book/tools/ender_slayer": {
     "criteria": {
       "has_the_recipe": "2026-10-19 13:41:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
+    "criteria": {
+      "has_resource": "2026-11-03 06:57:07 +0000"
     },
     "done": true
   },
@@ -1690,6 +1750,12 @@
     },
     "done": true
   },
+  "blue_skies:progression/unlock_everbright_blinding_key_trade": {
+    "criteria": {
+      "click_keystone": "2026-11-03 07:04:59 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
       "log_spam_fixer": "2026-10-12 03:30:47 +0000"
@@ -1717,6 +1783,12 @@
   "enigmaticaddons:book/tools/evil_dagger": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_shovel": {
+    "criteria": {
+      "has_resource": "2026-11-03 06:35:42 +0000"
     },
     "done": true
   },
@@ -1816,6 +1888,12 @@
   "enigmaticlegacy:book/misc/infinimeal": {
     "criteria": {
       "has_the_recipe": "2026-10-12 12:10:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:enter_blinding_dungeon": {
+    "criteria": {
+      "entered_everbright_blinding_dungeon": "2026-11-03 07:00:55 +0000"
     },
     "done": true
   },
@@ -1950,6 +2028,12 @@
   "cisco_mod:cover_me_in_bright_steel": {
     "criteria": {
       "cover_me_in_bright_steel": "2026-10-14 15:43:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_hoe": {
+    "criteria": {
+      "has_resource": "2026-11-03 06:35:42 +0000"
     },
     "done": true
   },
@@ -2191,6 +2275,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/pyrope_sword": {
+    "criteria": {
+      "has_resource": "2026-11-03 06:57:07 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/unholy_grail": {
     "criteria": {
       "has_items": "2026-10-23 13:59:50 +0000"
@@ -2266,6 +2356,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
     "criteria": {
       "requirement": "2026-11-01 15:07:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_pyrope": {
+    "criteria": {
+      "obtain_material": "2026-11-03 06:57:07 +0000"
     },
     "done": true
   },
@@ -2537,6 +2633,12 @@
     },
     "done": true
   },
+  "blue_skies:keys": {
+    "criteria": {
+      "obtain_key": "2026-11-03 07:01:29 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2026-10-12 03:30:47 +0000"
@@ -2558,6 +2660,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2026-10-17 15:17:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_aquite": {
+    "criteria": {
+      "obtain_material": "2026-11-03 06:35:42 +0000"
     },
     "done": true
   },
@@ -2631,6 +2739,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2026-11-03 07:42:22 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:apprentice_spell_book": {
     "criteria": {
       "has_apprentice_spell_book": "2026-10-15 15:44:23 +0000"
@@ -2677,6 +2791,12 @@
   "enigmaticaddons:book/accessories/hell_blade_charm": {
     "criteria": {
       "has_items": "2026-10-17 14:40:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_axe": {
+    "criteria": {
+      "has_resource": "2026-11-03 06:57:07 +0000"
     },
     "done": true
   },
@@ -3534,6 +3654,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/aquite_pickaxe": {
+    "criteria": {
+      "has_resource": "2026-11-03 06:35:42 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/discover_scroll": {
     "criteria": {
       "spellstone": "2026-10-23 15:36:36 +0000"
@@ -3591,6 +3717,12 @@
   "royalvariations:royal_variations_achievement": {
     "criteria": {
       "royal_variations_achievement": "2026-10-18 06:30:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everbright": "2026-11-03 06:24:48 +0000"
     },
     "done": true
   },
@@ -3793,6 +3925,18 @@
     },
     "done": true
   },
+  "blue_skies:everbright/kill_summoner": {
+    "criteria": {
+      "kill_summoner": "2026-11-03 07:06:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everbright": "2026-11-03 06:24:48 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
@@ -3852,6 +3996,7 @@
       "byg:rainbow_beach": "2026-10-19 14:32:56 +0000",
       "byg:viscal_isles": "2026-10-31 02:34:08 +0000",
       "byg:sythian_torrids": "2026-10-16 07:13:08 +0000",
+      "byg:temperate_grove": "2026-11-03 06:22:50 +0000",
       "byg:bulbis_gardens": "2026-10-30 04:08:25 +0000",
       "byg:glowstone_gardens": "2026-10-16 07:10:08 +0000",
       "byg:orchard": "2026-10-18 06:23:57 +0000",
@@ -3907,6 +4052,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2026-11-03 02:56:03 +0000"
+    },
+    "done": true
+  },
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
@@ -3957,9 +4108,29 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2026-11-02 15:55:26 +0000"
+      "!bit13": "2026-11-03 08:03:36 +0000",
+      "!bit14": "2026-11-03 08:03:36 +0000",
+      "!bit11": "2026-11-03 08:03:36 +0000",
+      "!bit12": "2026-11-03 08:03:36 +0000",
+      "!bit10": "2026-11-03 08:03:36 +0000",
+      "!bit9": "2026-11-03 08:03:36 +0000",
+      "!bit8": "2026-11-03 08:03:36 +0000",
+      "!bit7": "2026-11-03 08:03:36 +0000",
+      "!bit6": "2026-11-03 08:03:36 +0000",
+      "!bit5": "2026-11-03 08:03:36 +0000",
+      "!bit4": "2026-11-03 08:03:36 +0000",
+      "!bit3": "2026-11-03 08:03:36 +0000",
+      "!bit2": "2026-11-03 08:03:36 +0000",
+      "!bit1": "2026-11-03 08:03:36 +0000",
+      "!bit0": "2026-11-03 08:03:36 +0000"
     },
     "done": false
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2026-11-03 07:06:44 +0000"
+    },
+    "done": true
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
@@ -4159,6 +4330,12 @@
     },
     "done": false
   },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2026-11-03 05:58:34 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_player_hurt": {
     "criteria": {
       "requirement": "2026-10-12 03:55:03 +0000",
@@ -4249,6 +4426,12 @@
   "enigmaticlegacy:book/misc/cursed_stone": {
     "criteria": {
       "has_the_recipe": "2026-10-20 14:00:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2026-11-03 06:00:25 +0000"
     },
     "done": true
   },
