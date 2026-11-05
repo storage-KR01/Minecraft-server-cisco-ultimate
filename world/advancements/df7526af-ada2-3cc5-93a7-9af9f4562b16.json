@@ -219,6 +219,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tadpole_in_a_bucket": {
+    "criteria": {
+      "tadpole_bucket": "2026-11-05 15:47:50 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/enigmatic_elytra": {
     "criteria": {
       "has_the_recipe": "2026-10-14 05:58:29 +0000"
@@ -480,6 +486,7 @@
       "entered_stables": "2026-10-19 06:28:32 +0000",
       "entered_pillager_camp": "2026-10-12 04:23:39 +0000",
       "entered_large_dungeon": "2026-10-19 06:01:16 +0000",
+      "entered_tall_witch_hut": "2026-11-05 15:04:36 +0000",
       "entered_dungeon_variant": "2026-10-22 02:31:51 +0000",
       "entered_ruined_building": "2026-10-28 14:01:26 +0000"
     },
@@ -876,12 +883,14 @@
       "savage_and_ravage:executioner": "2026-10-18 03:58:57 +0000",
       "minecraft:guardian": "2026-10-23 15:19:16 +0000",
       "minecraft:vindicator": "2026-10-15 03:37:15 +0000",
+      "minecraft:magma_cube": "2026-11-05 03:43:28 +0000",
       "minecraft:spider": "2026-10-12 12:18:19 +0000",
       "minecraft:piglin_brute": "2026-10-17 02:40:57 +0000",
       "minecraft:creeper": "2026-10-12 04:41:34 +0000",
       "savage_and_ravage:trickster": "2026-10-18 03:58:54 +0000",
       "minecraft:wither": "2026-10-17 15:30:54 +0000",
       "minecraft:evoker": "2026-10-18 03:58:57 +0000",
+      "minecraft:slime": "2026-11-05 08:30:40 +0000",
       "minecraft:phantom": "2026-10-15 04:12:08 +0000",
       "minecraft:zombified_piglin": "2026-10-15 02:57:34 +0000",
       "minecraft:witch": "2026-10-17 03:15:13 +0000",
@@ -1844,6 +1853,12 @@
     },
     "done": false
   },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2026-11-05 04:06:41 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/cursed_ring": {
     "criteria": {
       "fruit": "2026-10-12 03:34:42 +0000"
@@ -1861,6 +1876,12 @@
   "apotheosis:enchanting/enchanter": {
     "criteria": {
       "enchanting_table": "2026-10-12 12:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2026-11-05 03:40:52 +0000"
     },
     "done": true
   },
@@ -2007,6 +2028,12 @@
       "requirement": "2026-10-12 04:56:09 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2026-11-05 03:53:13 +0000"
+    },
+    "done": false
   },
   "simplyswords:frostfall": {
     "criteria": {
@@ -2318,7 +2345,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:ash_barrens": "2026-10-17 02:42:23 +0000"
+      "incendium:ash_barrens": "2026-10-17 02:42:23 +0000",
+      "incendium:inverted_forest": "2026-11-05 04:02:37 +0000"
     },
     "done": false
   },
@@ -2628,6 +2656,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:frog": "2026-11-05 15:23:51 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:book/relics/cursed_ring": {
     "criteria": {
       "has_items": "2026-10-12 03:34:25 +0000"
@@ -2676,6 +2710,12 @@
     },
     "done": true
   },
+  "cisco_mod:anewlegend": {
+    "criteria": {
+      "anewlegend": "2026-11-05 03:34:55 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:main/false_justice": {
     "criteria": {
       "twist": "2026-10-18 15:55:49 +0000"
@@ -2691,6 +2731,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2026-10-12 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:trials_and_talismans": {
+    "criteria": {
+      "trials_and_talismans": "2026-11-05 03:25:55 +0000"
     },
     "done": true
   },
@@ -2710,6 +2756,12 @@
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2026-10-12 04:36:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2026-11-05 08:19:58 +0000"
     },
     "done": true
   },
@@ -3574,6 +3626,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed": "2026-11-05 15:08:54 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_planks": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -3701,6 +3759,7 @@
       "byg:shulkren_forest": "2026-10-29 13:25:41 +0000",
       "byg:baobab_savanna": "2026-10-19 06:35:36 +0000",
       "byg:amaranth_fields": "2026-10-19 06:24:47 +0000",
+      "byg:brimstone_caverns": "2026-11-05 03:44:39 +0000",
       "byg:coniferous_forest": "2026-10-28 13:40:45 +0000",
       "byg:ebony_woods": "2026-10-28 13:18:27 +0000",
       "byg:weeping_mire": "2026-10-15 02:34:40 +0000",
@@ -3848,6 +3907,12 @@
   "enigmaticlegacy:book/materials/ender_rod": {
     "criteria": {
       "has_the_recipe": "2026-10-13 12:41:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2026-11-05 03:42:27 +0000"
     },
     "done": true
   },
@@ -4005,6 +4070,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2026-10-29 13:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2026-11-05 15:23:51 +0000"
     },
     "done": true
   },

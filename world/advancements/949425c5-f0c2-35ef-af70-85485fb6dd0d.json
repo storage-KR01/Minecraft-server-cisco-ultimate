@@ -35,6 +35,12 @@
     },
     "done": false
   },
+  "cisco_mod:balance_unbound": {
+    "criteria": {
+      "balance_unbound": "2026-11-05 03:25:38 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
@@ -351,6 +357,12 @@
   "endrem:main/undead_eye_recipe": {
     "criteria": {
       "soul": "2026-10-27 11:31:13 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:heir_of_shadows": {
+    "criteria": {
+      "heir_of_shadows": "2026-11-05 03:17:52 +0000"
     },
     "done": true
   },
@@ -1677,6 +1689,12 @@
     },
     "done": true
   },
+  "cisco_mod:nightfall_ad": {
+    "criteria": {
+      "nightfall_ad": "2026-11-05 03:58:05 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:30:47 +0000"
@@ -2264,6 +2282,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:certificate_of_taming": {
+    "criteria": {
+      "picked_up_accessory": "2026-11-05 03:26:55 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/heaven_scroll": {
     "criteria": {
       "has_the_recipe": "2026-10-17 15:37:27 +0000"
@@ -2554,6 +2578,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2026-10-15 06:06:13 +0000"
+    },
+    "done": true
+  },
+  "ciscounbound:balance_unbound": {
+    "criteria": {
+      "balance_unbound": "2026-11-05 03:25:38 +0000"
     },
     "done": true
   },
@@ -2892,6 +2922,12 @@
     },
     "done": true
   },
+  "cisco_mod:size_matters": {
+    "criteria": {
+      "size_matters": "2026-11-05 03:24:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:chicken": "2026-11-02 06:46:12 +0000"
@@ -3162,6 +3198,12 @@
   "enigmaticlegacy:book/materials/astral_dust": {
     "criteria": {
       "has_items": "2026-10-23 13:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2026-11-05 04:41:37 +0000"
     },
     "done": true
   },
@@ -4175,7 +4217,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2026-11-04 15:39:12 +0000"
+      "not_target": "2026-11-05 15:46:53 +0000"
     },
     "done": false
   },

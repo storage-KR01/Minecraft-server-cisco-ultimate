@@ -374,7 +374,8 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2026-10-21 04:31:19 +0000",
-      "entered_pillager_camp": "2026-11-03 08:38:22 +0000"
+      "entered_pillager_camp": "2026-11-03 08:38:22 +0000",
+      "entered_druid_circle": "2026-11-05 08:09:10 +0000"
     },
     "done": false
   },
@@ -729,6 +730,7 @@
       "minecraft:endermite": "2026-11-03 02:36:39 +0000",
       "minecraft:vex": "2026-11-03 07:24:52 +0000",
       "minecraft:zombie": "2026-10-20 13:08:14 +0000",
+      "minecraft:drowned": "2026-11-05 08:18:35 +0000",
       "minecraft:zombie_villager": "2026-10-23 15:48:58 +0000"
     },
     "done": false
@@ -1406,6 +1408,8 @@
       "minecraft:snowy_plains": "2026-11-03 02:52:11 +0000",
       "minecraft:dripstone_caves": "2026-10-20 12:58:00 +0000",
       "minecraft:grove": "2026-10-21 04:25:15 +0000",
+      "minecraft:swamp": "2026-11-05 08:04:12 +0000",
+      "atmospheric:dunes": "2026-11-05 08:16:46 +0000",
       "minecraft:cold_ocean": "2026-11-03 08:40:36 +0000",
       "atmospheric:aspen_parkland": "2026-10-20 13:12:00 +0000",
       "minecraft:forest": "2026-10-12 04:42:33 +0000",
@@ -1423,6 +1427,7 @@
       "atmospheric:laurel_forest": "2026-10-13 12:40:29 +0000",
       "minecraft:deep_dark": "2026-10-22 02:49:05 +0000",
       "minecraft:meadow": "2026-10-22 02:48:19 +0000",
+      "minecraft:savanna": "2026-11-05 08:18:14 +0000",
       "minecraft:plains": "2026-10-12 04:23:18 +0000"
     },
     "done": false
@@ -1656,6 +1661,12 @@
       "loot_stat": "2026-10-20 08:00:37 +0000"
     },
     "done": true
+  },
+  "atmospheric:adventure/dunes_pricks": {
+    "criteria": {
+      "yucca_flower": "2026-11-05 08:17:24 +0000"
+    },
+    "done": false
   },
   "apotheosis:affix/gem_cut": {
     "criteria": {
@@ -2358,6 +2369,12 @@
     },
     "done": false
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2026-11-05 08:11:58 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2026-10-12 04:23:17 +0000"
@@ -3038,16 +3055,20 @@
       "byg:red_oak_forest": "2026-10-13 12:40:39 +0000",
       "byg:cypress_swamplands": "2026-10-29 04:01:29 +0000",
       "byg:autumnal_forest": "2026-10-22 02:48:27 +0000",
+      "byg:cika_woods": "2026-11-05 08:07:34 +0000",
       "byg:warped_desert": "2026-11-01 02:58:58 +0000",
+      "byg:atacama_desert": "2026-11-05 08:16:38 +0000",
       "byg:zelkova_forest": "2026-10-21 04:46:33 +0000",
       "byg:wailing_garth": "2026-10-20 08:05:34 +0000",
+      "byg:bayou": "2026-11-05 08:04:13 +0000",
       "byg:autumnal_valley": "2026-11-03 03:10:56 +0000",
       "byg:aspen_forest": "2026-10-13 12:42:14 +0000",
       "byg:skyris_vale": "2026-10-13 12:38:47 +0000",
       "byg:nightshade_forest": "2026-11-01 03:52:26 +0000",
       "byg:shulkren_forest": "2026-11-01 14:32:05 +0000",
       "byg:weeping_mire": "2026-10-20 08:05:29 +0000",
-      "byg:maple_taiga": "2026-10-21 15:26:22 +0000"
+      "byg:maple_taiga": "2026-10-21 15:26:22 +0000",
+      "byg:windswept_desert": "2026-11-05 08:16:44 +0000"
     },
     "done": false
   },
@@ -3098,12 +3119,6 @@
       "has_the_recipe": "2026-10-12 04:23:17 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2026-11-03 08:38:24 +0000"
-    },
-    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
