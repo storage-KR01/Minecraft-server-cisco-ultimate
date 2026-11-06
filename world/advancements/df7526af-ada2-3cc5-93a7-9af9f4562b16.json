@@ -3272,6 +3272,12 @@
     },
     "done": true
   },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2026-11-06 04:07:37 +0000"
+    },
+    "done": true
+  },
   "aether:enter_aether": {
     "criteria": {
       "enter_aether": "2026-10-30 13:53:46 +0000"
@@ -3831,6 +3837,12 @@
   "apotheosis:enchanting/30ench": {
     "criteria": {
       "enchanted_item": "2026-10-15 07:11:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2026-11-06 04:07:32 +0000"
     },
     "done": true
   },

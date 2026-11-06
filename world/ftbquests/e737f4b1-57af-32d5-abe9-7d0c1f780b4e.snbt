@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "e737f4b157af32d5abe97d0c1f780b4e"
+	name: "SieuPhanDong"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6F3CB38E18ED5D0F: 1
+	}
+	started: {
+		6F3CB38E18ED5D0F: 1793939024794L
+		6F010E22CD886969: 1793939024794L
+		0000000000000001: 1793939024794L
+		744084D7C7EA8A6C: 1793939024794L
+	}
+	completed: {
+		6F3CB38E18ED5D0F: 1793939024799L
+		6F010E22CD886969: 1793939024799L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
