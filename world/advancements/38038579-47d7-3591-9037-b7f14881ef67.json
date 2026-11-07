@@ -91,6 +91,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/80ench": {
+    "criteria": {
+      "enchanted_item": "2026-11-06 14:59:24 +0000"
+    },
+    "done": true
+  },
   "vinery:big_table": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:25:18 +0000"
@@ -965,6 +971,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2026-11-06 15:59:04 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/tools/disaster_sword": {
     "criteria": {
       "has_the_recipe": "2026-10-12 04:25:18 +0000"
@@ -1046,6 +1058,12 @@
   "enigmaticaddons:book/relics/lost_engine": {
     "criteria": {
       "has_items": "2026-10-12 14:23:05 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/arcana100": {
+    "criteria": {
+      "enchanted_item": "2026-11-06 14:59:24 +0000"
     },
     "done": true
   },
@@ -1229,6 +1247,12 @@
   "irons_spellbooks:irons_spellbooks/staff_root": {
     "criteria": {
       "requirement": "2026-11-01 04:06:16 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2026-11-06 15:59:04 +0000"
     },
     "done": true
   },
@@ -2051,6 +2075,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/quanta50": {
+    "criteria": {
+      "enchanted_item": "2026-11-06 14:59:24 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2026-10-12 04:31:16 +0000"
@@ -2213,6 +2243,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/arcana50": {
+    "criteria": {
+      "enchanted_item": "2026-11-06 14:59:24 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/super_magnet_ring": {
     "criteria": {
       "has_the_recipe": "2026-10-13 10:02:11 +0000"
@@ -2292,6 +2328,12 @@
   "incendium:misc/root": {
     "criteria": {
       "incendium:ash_barrens": "2026-10-30 14:28:01 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/60ench": {
+    "criteria": {
+      "enchanted_item": "2026-11-06 14:59:24 +0000"
     },
     "done": true
   },
@@ -2625,6 +2667,12 @@
       "has_parent_recipe": "2026-10-12 04:33:23 +0000"
     },
     "done": false
+  },
+  "apotheosis:enchanting/100ench": {
+    "criteria": {
+      "enchanted_item": "2026-11-06 14:59:24 +0000"
+    },
+    "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
@@ -3578,21 +3626,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2026-11-06 04:27:52 +0000",
-      "!bit14": "2026-11-06 04:27:52 +0000",
-      "!bit11": "2026-11-06 04:27:52 +0000",
-      "!bit12": "2026-11-06 04:27:52 +0000",
-      "!bit10": "2026-11-06 04:27:52 +0000",
-      "!bit9": "2026-11-06 04:27:52 +0000",
-      "!bit8": "2026-11-06 04:27:52 +0000",
-      "!bit7": "2026-11-06 04:27:52 +0000",
-      "!bit6": "2026-11-06 04:27:52 +0000",
-      "!bit5": "2026-11-06 04:27:52 +0000",
-      "!bit4": "2026-11-06 04:27:52 +0000",
-      "!bit3": "2026-11-06 04:27:52 +0000",
-      "!bit2": "2026-11-06 04:27:52 +0000",
-      "!bit1": "2026-11-06 04:27:52 +0000",
-      "!bit0": "2026-11-06 04:27:52 +0000"
+      "not_target": "2026-11-06 15:59:42 +0000"
     },
     "done": false
   },

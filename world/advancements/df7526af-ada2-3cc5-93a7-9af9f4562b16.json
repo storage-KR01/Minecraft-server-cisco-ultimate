@@ -277,9 +277,10 @@
     "criteria": {
       "in_better_zombie_dungeon": "2026-10-15 14:25:34 +0000",
       "in_better_monster_room": "2026-10-17 02:45:59 +0000",
+      "in_better_spider_dungeon": "2026-11-07 01:43:42 +0000",
       "in_better_skeleton_dungeon": "2026-10-17 06:56:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "simplyswords:soulstealer": {
     "criteria": {
@@ -500,6 +501,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/redstone": {
+    "criteria": {
+      "modifier": "2026-11-07 02:49:00 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -581,6 +588,12 @@
   "majruszsaccessories:booster_dropped": {
     "criteria": {
       "picked_up_booster": "2026-10-19 04:45:10 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/mindelay": {
+    "criteria": {
+      "modifier": "2026-11-07 02:49:00 +0000"
     },
     "done": true
   },
@@ -776,6 +789,8 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
+      "in_mineshaft_birch": "2026-11-06 14:41:09 +0000",
+      "in_mineshaft_warped": "2026-11-07 01:24:42 +0000",
       "in_mineshaft_nether": "2026-10-29 06:42:25 +0000"
     },
     "done": false
@@ -1667,6 +1682,12 @@
     },
     "done": false
   },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2026-11-06 15:11:31 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -1760,6 +1781,7 @@
       "minecraft:frozen_ocean": "2026-10-28 13:45:11 +0000",
       "minecraft:desert": "2026-10-28 13:14:42 +0000",
       "minecraft:deep_frozen_ocean": "2026-10-28 13:46:11 +0000",
+      "minecraft:windswept_forest": "2026-11-06 14:54:07 +0000",
       "minecraft:ocean": "2026-10-12 04:48:46 +0000",
       "minecraft:jungle": "2026-10-19 06:19:56 +0000",
       "atmospheric:sparse_rainforest_basin": "2026-10-20 03:01:39 +0000",
@@ -1862,6 +1884,12 @@
   "enigmaticlegacy:main/cursed_ring": {
     "criteria": {
       "fruit": "2026-10-12 03:34:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:treasure": "2026-11-06 15:13:09 +0000"
     },
     "done": true
   },
@@ -2031,7 +2059,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2026-11-05 03:53:13 +0000"
+      "minecraft:crimson_forest": "2026-11-06 15:11:30 +0000",
+      "minecraft:nether_wastes": "2026-11-05 03:53:13 +0000",
+      "minecraft:basalt_deltas": "2026-11-06 15:12:07 +0000",
+      "minecraft:warped_forest": "2026-11-07 01:23:07 +0000"
     },
     "done": false
   },
@@ -2819,6 +2850,12 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "treasure": "2026-11-06 15:13:09 +0000"
+    },
+    "done": false
+  },
   "twilightforest:progress_thorns": {
     "criteria": {
       "castle": "2026-10-19 07:53:48 +0000"
@@ -3028,6 +3065,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/maxdelay": {
+    "criteria": {
+      "modifier": "2026-11-07 02:49:00 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/feed_ghastling": {
     "criteria": {
       "log_spam_fixer": "2026-10-12 03:34:26 +0000"
@@ -3081,6 +3124,12 @@
   "enigmaticlegacy:book/tools/etherium_pickaxe": {
     "criteria": {
       "has_the_recipe": "2026-10-14 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2026-11-07 01:43:42 +0000"
     },
     "done": true
   },
@@ -3281,6 +3330,12 @@
   "aether:enter_aether": {
     "criteria": {
       "enter_aether": "2026-10-30 13:53:46 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/players": {
+    "criteria": {
+      "modifier": "2026-11-07 02:49:00 +0000"
     },
     "done": true
   },
@@ -3644,6 +3699,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2026-11-07 03:11:37 +0000"
+    },
+    "done": true
+  },
   "vinery:stripped_cherry_wood": {
     "criteria": {
       "has_the_recipe": "2026-10-12 03:34:25 +0000"
@@ -3755,6 +3816,7 @@
       "byg:white_mangrove_marshes": "2026-10-30 14:40:11 +0000",
       "byg:weeping_witch_forest": "2026-10-19 05:58:13 +0000",
       "byg:atacama_desert": "2026-10-19 06:28:18 +0000",
+      "byg:embur_bog": "2026-11-07 01:08:02 +0000",
       "byg:zelkova_forest": "2026-10-21 14:22:39 +0000",
       "byg:araucaria_savanna": "2026-10-19 06:35:11 +0000",
       "byg:wailing_garth": "2026-10-17 14:57:28 +0000",
@@ -4088,6 +4150,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2026-11-05 15:23:51 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/modifier": {
+    "criteria": {
+      "modifier": "2026-11-07 02:49:00 +0000"
     },
     "done": true
   },
